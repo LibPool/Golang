@@ -1,0 +1,46 @@
+# github.com/tron-us/go-btfs
+
+> 标签: com, github.com, go, go-btfs, golang, tron-us
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/tron-us/go-btfs。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/tron-us/go-btfs
+- 源码仓库：https://github.com/tron-us/go-btfs
+
+## 历史版本号
+
+- 当前版本：v1.5.0
+
+- v0.4.14-rc2
+- v0.4.14-rc3
+- v0.4.15
+- v0.4.15-rc1
+- v0.4.16
+- v0.4.16-rc1
+- v0.4.16-rc2
+- v0.4.16-rc3
+- v0.4.17
+- v0.4.17-rc1
+- v0.4.18
+- v0.4.18-rc1
+- v0.4.18-rc2
+- v0.4.19
+- v0.4.19-rc1
+- v0.4.19-rc2
+- v0.4.20
+- v0.4.20-rc1
+- v0.4.20-rc2
+- v1.5.0
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/tron-us/go-btfs@v1.5.0`
+- 模块代理：https://proxy.golang.org/github.com/tron-us/go-btfs/@v/list
+- go.mod 记录的最低 Go 版本：1.14

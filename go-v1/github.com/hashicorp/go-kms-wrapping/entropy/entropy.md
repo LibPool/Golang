@@ -1,0 +1,26 @@
+# github.com/hashicorp/go-kms-wrapping/entropy
+
+> 标签: com, entropy, github.com, go, go-kms-wrapping, golang, hashicorp
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/hashicorp/go-kms-wrapping/entropy。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/hashicorp/go-kms-wrapping/entropy
+- 源码仓库：https://github.com/hashicorp/go-kms-wrapping
+
+## 历史版本号
+
+- 当前版本：v0.1.0
+
+- v0.1.0
+
+## 获取地址
+
+- go mod 下载：`go get github.com/hashicorp/go-kms-wrapping/entropy@v0.1.0`
+- 模块代理：https://proxy.golang.org/github.com/hashicorp/go-kms-wrapping/entropy/@v/list
+- go.mod 记录的最低 Go 版本：1.13

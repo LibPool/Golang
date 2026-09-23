@@ -1,0 +1,45 @@
+# gopkg.in/olivere/elastic.v7
+
+> 标签: elastic.v7, go, golang, gopkg.in, in, olivere
+
+## 简介
+
+Go module，由 index.golang.org 收录：gopkg.in/olivere/elastic.v7。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/gopkg.in/olivere/elastic.v7
+
+## 历史版本号
+
+- 当前版本：v7.0.32
+
+- v7.0.13
+- v7.0.14
+- v7.0.15
+- v7.0.16
+- v7.0.17
+- v7.0.18
+- v7.0.19
+- v7.0.20
+- v7.0.21
+- v7.0.22
+- v7.0.23
+- v7.0.24
+- v7.0.25
+- v7.0.26
+- v7.0.27
+- v7.0.28
+- v7.0.29
+- v7.0.30
+- v7.0.31
+- v7.0.32
+- 共 33 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get gopkg.in/olivere/elastic.v7@v7.0.32`
+- 模块代理：https://proxy.golang.org/gopkg.in/olivere/elastic.v7/@v/list
+- go.mod 记录的最低 Go 版本：1.17

@@ -1,0 +1,30 @@
+# github.com/YUSHEN2015/service
+
+> 标签: YUSHEN2015, com, github.com, go, golang, service
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/YUSHEN2015/service。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/YUSHEN2015/service
+- 源码仓库：https://github.com/YUSHEN2015/service
+
+## 历史版本号
+
+- 当前版本：v1.0.4
+
+- v1.0.0
+- v1.0.1
+- v1.0.2
+- v1.0.3
+- v1.0.4
+
+## 获取地址
+
+- go mod 下载：`go get github.com/YUSHEN2015/service@v1.0.4`
+- 模块代理：https://proxy.golang.org/github.com/%21y%21u%21s%21h%21e%21n2015/service/@v/list
+- go.mod 记录的最低 Go 版本：1.10

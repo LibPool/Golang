@@ -1,0 +1,46 @@
+# github.com/Sunkwan-Kwon/cadence-client
+
+> 标签: Sunkwan-Kwon, cadence-client, com, github.com, go, golang
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/Sunkwan-Kwon/cadence-client。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/Sunkwan-Kwon/cadence-client
+- 源码仓库：https://github.com/Sunkwan-Kwon/cadence-client
+
+## 历史版本号
+
+- 当前版本：v0.11.3
+
+- v0.8.1
+- v0.8.2
+- v0.8.3
+- v0.8.4
+- v0.8.5
+- v0.8.6
+- v0.8.8
+- v0.8.9
+- v0.9.0
+- v0.9.1
+- v0.9.2
+- v0.9.3
+- v0.10.0
+- v0.10.1
+- v0.10.5
+- v0.11.0
+- v0.11.1
+- v0.11.2
+- v0.11.2-1
+- v0.11.3
+- 共 38 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/Sunkwan-Kwon/cadence-client@v0.11.3`
+- 模块代理：https://proxy.golang.org/github.com/%21sunkwan-%21kwon/cadence-client/@v/list
+- go.mod 记录的最低 Go 版本：1.13

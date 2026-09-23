@@ -1,0 +1,46 @@
+# github.com/thediveo/lxkns
+
+> 标签: com, github.com, go, golang, lxkns, thediveo
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/thediveo/lxkns。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/thediveo/lxkns
+- 源码仓库：https://github.com/thediveo/lxkns
+
+## 历史版本号
+
+- 当前版本：v0.48.0
+
+- v0.42.9
+- v0.42.10
+- v0.42.11
+- v0.42.12
+- v0.42.13
+- v0.43.0
+- v0.43.1
+- v0.43.2
+- v0.44.0
+- v0.45.0
+- v0.45.1
+- v0.45.2
+- v0.45.3
+- v0.45.4
+- v0.46.0
+- v0.47.0
+- v0.47.1
+- v0.47.2
+- v0.47.3
+- v0.48.0
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/thediveo/lxkns@v0.48.0`
+- 模块代理：https://proxy.golang.org/github.com/thediveo/lxkns/@v/list
+- go.mod 记录的最低 Go 版本：1.26.3

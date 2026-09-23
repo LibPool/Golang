@@ -1,0 +1,33 @@
+# git.sr.ht/~cco/go-frontend
+
+> 标签: git.sr.ht, go, go-frontend, golang, ht, ~cco
+
+## 简介
+
+Go module，由 index.golang.org 收录：git.sr.ht/~cco/go-frontend。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/git.sr.ht/~cco/go-frontend
+
+## 历史版本号
+
+- 当前版本：v0.1.19
+
+- v0.1.8
+- v0.1.9
+- v0.1.10
+- v0.1.11
+- v0.1.13
+- v0.1.14
+- v0.1.15
+- v0.1.18
+- v0.1.19
+
+## 获取地址
+
+- go mod 下载：`go get git.sr.ht/~cco/go-frontend@v0.1.19`
+- 模块代理：https://proxy.golang.org/git.sr.ht/~cco/go-frontend/@v/list
+- go.mod 记录的最低 Go 版本：1.21

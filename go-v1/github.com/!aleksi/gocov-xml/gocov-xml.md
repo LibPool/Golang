@@ -1,0 +1,28 @@
+# github.com/Aleksi/gocov-xml
+
+> 标签: Aleksi, com, github.com, go, gocov-xml, golang
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/Aleksi/gocov-xml。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/Aleksi/gocov-xml
+- 源码仓库：https://github.com/Aleksi/gocov-xml
+
+## 历史版本号
+
+- 当前版本：v1.2.0
+
+- v1.0.0
+- v1.1.0
+- v1.2.0
+
+## 获取地址
+
+- go mod 下载：`go get github.com/Aleksi/gocov-xml@v1.2.0`
+- 模块代理：https://proxy.golang.org/github.com/%21aleksi/gocov-xml/@v/list
+- go.mod 记录的最低 Go 版本：1.13

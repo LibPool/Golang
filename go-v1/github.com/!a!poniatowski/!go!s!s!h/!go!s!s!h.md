@@ -1,0 +1,27 @@
+# github.com/APoniatowski/GoSSH
+
+> 标签: APoniatowski, GoSSH, com, github.com, go, golang
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/APoniatowski/GoSSH。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/APoniatowski/GoSSH
+- 源码仓库：https://github.com/APoniatowski/GoSSH
+
+## 历史版本号
+
+- 当前版本：v1.4.0
+
+- v1.0.0
+- v1.4.0
+
+## 获取地址
+
+- go mod 下载：`go get github.com/APoniatowski/GoSSH@v1.4.0`
+- 模块代理：https://proxy.golang.org/github.com/%21a%21poniatowski/%21go%21s%21s%21h/@v/list
+- go.mod 记录的最低 Go 版本：1.13

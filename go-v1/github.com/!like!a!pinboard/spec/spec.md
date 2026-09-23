@@ -1,0 +1,25 @@
+# github.com/LikeAPinboard/spec
+
+> 标签: LikeAPinboard, com, github.com, go, golang, spec
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/LikeAPinboard/spec。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/LikeAPinboard/spec
+- 源码仓库：https://github.com/LikeAPinboard/spec
+
+## 历史版本号
+
+- 当前版本：v1.0.1
+
+- v1.0.1
+
+## 获取地址
+
+- go mod 下载：`go get github.com/LikeAPinboard/spec@v1.0.1`
+- 模块代理：https://proxy.golang.org/github.com/%21like%21a%21pinboard/spec/@v/list
