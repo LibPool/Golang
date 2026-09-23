@@ -1,0 +1,28 @@
+# github.com/spf13/fsync
+
+> 标签: com, fsync, github.com, go, golang, spf13
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/spf13/fsync。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/spf13/fsync
+- 源码仓库：https://github.com/spf13/fsync
+
+## 历史版本号
+
+- 当前版本：v0.10.1
+
+- v0.9.0
+- v0.10.0
+- v0.10.1
+
+## 获取地址
+
+- go mod 下载：`go get github.com/spf13/fsync@v0.10.1`
+- 模块代理：https://proxy.golang.org/github.com/spf13/fsync/@v/list
+- go.mod 记录的最低 Go 版本：1.16

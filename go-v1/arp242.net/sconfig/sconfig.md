@@ -1,0 +1,26 @@
+# arp242.net/sconfig
+
+> 标签: arp242.net, go, golang, net, sconfig
+
+## 简介
+
+Go module，由 index.golang.org 收录：arp242.net/sconfig。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/arp242.net/sconfig
+
+## 历史版本号
+
+- 当前版本：v1.2.1
+
+- v1.2.0
+- v1.2.1
+
+## 获取地址
+
+- go mod 下载：`go get arp242.net/sconfig@v1.2.1`
+- 模块代理：https://proxy.golang.org/arp242.net/sconfig/@v/list
+- go.mod 记录的最低 Go 版本：1.12

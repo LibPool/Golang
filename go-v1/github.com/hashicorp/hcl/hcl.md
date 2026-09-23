@@ -1,0 +1,34 @@
+# github.com/hashicorp/hcl
+
+> 标签: com, github.com, go, golang, hashicorp, hcl
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/hashicorp/hcl。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/hashicorp/hcl
+- 源码仓库：https://github.com/hashicorp/hcl
+
+## 历史版本号
+
+- 当前版本：v1.0.1-vault-7
+
+- v1.0.0
+- v1.0.1-nomad-1
+- v1.0.1-vault
+- v1.0.1-vault-2
+- v1.0.1-vault-3
+- v1.0.1-vault-4
+- v1.0.1-vault-5
+- v1.0.1-vault-6
+- v1.0.1-vault-7
+
+## 获取地址
+
+- go mod 下载：`go get github.com/hashicorp/hcl@v1.0.1-vault-7`
+- 模块代理：https://proxy.golang.org/github.com/hashicorp/hcl/@v/list
+- go.mod 记录的最低 Go 版本：1.15

@@ -1,0 +1,25 @@
+# github.com/jlucktay/golang-workbench
+
+> 标签: com, github.com, go, golang, golang-workbench, jlucktay
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/jlucktay/golang-workbench。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/jlucktay/golang-workbench
+- 源码仓库：https://github.com/jlucktay/golang-workbench
+
+## 历史版本号
+
+- 当前版本：v1.1.0-dotfiles
+
+- v1.1.0-dotfiles
+
+## 获取地址
+
+- go mod 下载：`go get github.com/jlucktay/golang-workbench@v1.1.0-dotfiles`
+- 模块代理：https://proxy.golang.org/github.com/jlucktay/golang-workbench/@v/list

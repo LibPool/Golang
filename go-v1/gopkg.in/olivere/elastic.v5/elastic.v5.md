@@ -1,0 +1,45 @@
+# gopkg.in/olivere/elastic.v5
+
+> 标签: elastic.v5, go, golang, gopkg.in, in, olivere
+
+## 简介
+
+Go module，由 index.golang.org 收录：gopkg.in/olivere/elastic.v5。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/gopkg.in/olivere/elastic.v5
+
+## 历史版本号
+
+- 当前版本：v5.0.86
+
+- v5.0.67
+- v5.0.68
+- v5.0.69
+- v5.0.70
+- v5.0.71
+- v5.0.72
+- v5.0.73
+- v5.0.74
+- v5.0.75
+- v5.0.76
+- v5.0.77
+- v5.0.78
+- v5.0.79
+- v5.0.80
+- v5.0.81
+- v5.0.82
+- v5.0.83
+- v5.0.84
+- v5.0.85
+- v5.0.86
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get gopkg.in/olivere/elastic.v5@v5.0.86`
+- 模块代理：https://proxy.golang.org/gopkg.in/olivere/elastic.v5/@v/list
+- go.mod 记录的最低 Go 版本：1.13

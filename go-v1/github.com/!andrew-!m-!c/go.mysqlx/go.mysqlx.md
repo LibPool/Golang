@@ -1,0 +1,28 @@
+# github.com/Andrew-M-C/go.mysqlx
+
+> 标签: Andrew-M-C, com, github.com, go, go.mysqlx, golang
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/Andrew-M-C/go.mysqlx。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/Andrew-M-C/go.mysqlx
+- 源码仓库：https://github.com/Andrew-M-C/go.mysqlx
+
+## 历史版本号
+
+- 当前版本：v0.3.0
+
+- v0.1.0
+- v0.2.0
+- v0.3.0
+
+## 获取地址
+
+- go mod 下载：`go get github.com/Andrew-M-C/go.mysqlx@v0.3.0`
+- 模块代理：https://proxy.golang.org/github.com/%21andrew-%21m-%21c/go.mysqlx/@v/list
+- go.mod 记录的最低 Go 版本：1.13

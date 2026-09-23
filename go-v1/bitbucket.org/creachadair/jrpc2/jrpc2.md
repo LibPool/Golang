@@ -1,0 +1,28 @@
+# bitbucket.org/creachadair/jrpc2
+
+> 标签: bitbucket.org, creachadair, go, golang, jrpc2, org
+
+## 简介
+
+Go module，由 index.golang.org 收录：bitbucket.org/creachadair/jrpc2。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/bitbucket.org/creachadair/jrpc2
+- 源码仓库：https://bitbucket.org/creachadair/jrpc2
+
+## 历史版本号
+
+- 当前版本：v0.0.66
+
+- v0.0.61
+- v0.0.64
+- v0.0.65
+- v0.0.66
+
+## 获取地址
+
+- go mod 下载：`go get bitbucket.org/creachadair/jrpc2@v0.0.66`
+- 模块代理：https://proxy.golang.org/bitbucket.org/creachadair/jrpc2/@v/list

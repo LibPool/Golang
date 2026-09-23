@@ -1,0 +1,33 @@
+# github.com/albertito/chasquid
+
+> 标签: albertito, chasquid, com, github.com, go, golang
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/albertito/chasquid。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/albertito/chasquid
+- 源码仓库：https://github.com/albertito/chasquid
+
+## 历史版本号
+
+- 当前版本：v1.18.0
+
+- v1.11.1
+- v1.13.0
+- v1.14.0
+- v1.15.0
+- v1.15.1
+- v1.16.0
+- v1.17.0
+- v1.18.0
+
+## 获取地址
+
+- go mod 下载：`go get github.com/albertito/chasquid@v1.18.0`
+- 模块代理：https://proxy.golang.org/github.com/albertito/chasquid/@v/list
+- go.mod 记录的最低 Go 版本：1.25.11

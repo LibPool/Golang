@@ -1,0 +1,36 @@
+# github.com/terra-farm/terraform-provider-virtualbox
+
+> 标签: com, github.com, go, golang, terra-farm, terraform-provider-virtualbox
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/terra-farm/terraform-provider-virtualbox。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/terra-farm/terraform-provider-virtualbox
+- 源码仓库：https://github.com/terra-farm/terraform-provider-virtualbox
+
+## 历史版本号
+
+- 当前版本：v0.2.2-alpha.1
+
+- v0.1.0
+- v0.1.1
+- v0.1.2
+- v0.1.3
+- v0.1.4
+- v0.1.5
+- v0.1.6
+- v0.2.0
+- v0.2.1-alpha
+- v0.2.1-alpha.1
+- v0.2.2-alpha.1
+
+## 获取地址
+
+- go mod 下载：`go get github.com/terra-farm/terraform-provider-virtualbox@v0.2.2-alpha.1`
+- 模块代理：https://proxy.golang.org/github.com/terra-farm/terraform-provider-virtualbox/@v/list
+- go.mod 记录的最低 Go 版本：1.17

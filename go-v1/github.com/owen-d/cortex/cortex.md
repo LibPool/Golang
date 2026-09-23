@@ -1,0 +1,29 @@
+# github.com/owen-d/cortex
+
+> 标签: com, cortex, github.com, go, golang, owen-d
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/owen-d/cortex。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/owen-d/cortex
+- 源码仓库：https://github.com/owen-d/cortex
+
+## 历史版本号
+
+- 当前版本：v0.2.0-rc.0
+
+- v0.1.0
+- v0.1.0-rc.0
+- v0.2.0
+- v0.2.0-rc.0
+
+## 获取地址
+
+- go mod 下载：`go get github.com/owen-d/cortex@v0.2.0-rc.0`
+- 模块代理：https://proxy.golang.org/github.com/owen-d/cortex/@v/list
+- go.mod 记录的最低 Go 版本：1.12
