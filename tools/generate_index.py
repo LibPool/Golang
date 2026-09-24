@@ -30,6 +30,8 @@ PROXY_GOLANG = "https://proxy.golang.org"
 PKG_GO_DEV = "https://pkg.go.dev"
 USER_AGENT = "LibPool-Indexer/1.0 (+https://github.com/LibPool)"
 CACHE_PATH = Path(__file__).resolve().parent / "cache" / "go.json"
+INDEX_PATHS = Path(__file__).resolve().parent / "cache" / "go_index_paths.txt"
+INDEX_CURSOR = Path(__file__).resolve().parent / "cache" / "go_index_cursor.json"
 GO_RELEASES = ["go-v1"]
 
 
@@ -71,10 +73,10 @@ def http_json(url: str) -> dict | None:
 def fetch_lines(url: str) -> tuple[list[str], str]:
     """Fetch line data. Error kind: "" ok, "notfound" permanent, "network" transient."""
     last_exc: Exception | None = None
-    for attempt in range(4):
+    for attempt in range(8):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-            with urllib.request.urlopen(req, timeout=30) as resp:
+            with urllib.request.urlopen(req, timeout=90) as resp:
                 lines = [ln for ln in resp.read().decode("utf-8", errors="replace").splitlines() if ln.strip()]
                 return lines, ""
         except Exception as exc:
@@ -84,10 +86,10 @@ def fetch_lines(url: str) -> tuple[list[str], str]:
                 print(f"  fetch failed: {url} -> HTTP Error 404: Not Found", flush=True)
                 return [], "notfound"
             if code in (429, 500, 502, 503, 504):
-                time.sleep(1 + attempt * 2)
+                time.sleep(2 + attempt * 3)
                 continue
-            if attempt < 2:
-                time.sleep(0.4 * (attempt + 1))
+            if attempt < 6:
+                time.sleep(3 + attempt * 3)
                 continue
             break
     print(f"  fetch failed: {url} -> {last_exc}", flush=True)
@@ -150,17 +152,53 @@ def import_failures(log_path: Path, cache: dict) -> int:
     return imported
 
 
-def crawl_index(limit: int, exclude: set[str]) -> list[str]:
-    """Crawl index.golang.org from the beginning until unique_count modules."""
+def save_index_cursor(since: str) -> None:
+    INDEX_CURSOR.parent.mkdir(parents=True, exist_ok=True)
+    INDEX_CURSOR.write_text(json.dumps({"since": since}, separators=(",", ":")), encoding="utf-8")
+
+
+def crawl_index(limit: int, exclude: set[str]) -> tuple[list[str], bool]:
+    """Crawl index.golang.org to the end with a persisted cursor and retries."""
+    INDEX_PATHS.parent.mkdir(parents=True, exist_ok=True)
     paths: list[str] = []
     seen: set[str] = set(exclude)
-    url = f"{INDEX_GOLANG}?limit=1000"
+    existing = []
+    if INDEX_PATHS.exists():
+        with INDEX_PATHS.open(encoding="utf-8", errors="replace") as fh:
+            existing = [ln.strip() for ln in fh if ln.strip()]
+    for p in existing:
+        if p not in seen:
+            seen.add(p)
+    out = INDEX_PATHS.open("a", encoding="utf-8", newline="\n")
+    persisted = set(existing)
+    cursor = None
+    if INDEX_CURSOR.exists():
+        try:
+            cursor = json.loads(INDEX_CURSOR.read_text(encoding="utf-8")).get("since")
+        except Exception:
+            cursor = None
+    if cursor:
+        url = f"{INDEX_GOLANG}?since={urllib.parse.quote(cursor)}&limit=1000"
+    else:
+        url = f"{INDEX_GOLANG}?limit=1000"
     pages = 0
     print(f"Crawling Go index, target {limit} unique modules...", flush=True)
-    while len(paths) < limit:
-        data = http_lines(url)
+    reached_end = False
+    consecutive_failures = 0
+    while len(paths) + len(persisted) < limit:
+        data, err = fetch_lines(url)
         if not data:
-            break
+            consecutive_failures += 1
+            if err == "notfound":
+                reached_end = True
+                break
+            if consecutive_failures >= 5:
+                print(f"  giving up after {consecutive_failures} consecutive failures", flush=True)
+                break
+            print(f"  page {pages + 1} failed ({err}); retrying in 8s", flush=True)
+            time.sleep(8)
+            continue
+        consecutive_failures = 0
         pages += 1
         last_ts = ""
         for line in data:
@@ -175,14 +213,24 @@ def crawl_index(limit: int, exclude: set[str]) -> list[str]:
             if path and path not in seen:
                 seen.add(path)
                 paths.append(path)
-                if len(paths) >= limit:
+                if path not in persisted:
+                    out.write(path + "\n")
+                    persisted.add(path)
+                if len(paths) + len(persisted) >= limit:
                     break
-        print(f"  index page {pages}: {len(paths)} unique so far", flush=True)
+        print(f"  index page {pages}: {len(paths):,} new so far", flush=True)
         if not last_ts:
+            reached_end = True
             break
+        if len(data) < 1000:
+            reached_end = True
+            save_index_cursor(last_ts)
+            break
+        save_index_cursor(last_ts)
         url = f"{INDEX_GOLANG}?since={urllib.parse.quote(last_ts)}&limit=1000"
-        time.sleep(0.1)
-    return paths
+        time.sleep(0.2)
+    out.close()
+    return paths, reached_end
 
 
 def source_url_for(path: str) -> str:
@@ -413,6 +461,14 @@ def generate(root: Path, libs: list[GoLib]) -> dict[str, int]:
     return dict(counts)
 
 
+def count_md_files(root: Path) -> dict[str, int]:
+    counts: dict[str, int] = {}
+    for release in GO_RELEASES:
+        base = root / release
+        counts[release] = len(list(base.rglob("*.md"))) if base.exists() else 0
+    return counts
+
+
 def write_go_readme(root: Path, libs: list[GoLib], counts: dict[str, int], crawl_count: int) -> None:
     total = sum(counts.values())
     lines = [
@@ -472,9 +528,11 @@ def main() -> int:
     seed_paths = {lib.path for lib in libs}
     if args.crawl:
         exclude = set(cache.keys()) | seed_paths
-        paths = crawl_index(args.crawl_count, exclude)
+        paths, reached_end = crawl_index(args.crawl_count, exclude)
         for p in paths:
             libs.append(GoLib(path=p))
+        if not reached_end:
+            print(f"Crawl did not reach the end (new modules: {len(paths):,}); README not updated.", flush=True)
     else:
         libs += [GoLib(path=k) for k in cache.keys() if k not in seed_paths]
     use_cache = not args.refresh_cache
@@ -496,7 +554,10 @@ def main() -> int:
         shutil.rmtree(root / "go-v1", ignore_errors=True)
     counts = generate(root, [lib for lib, _ in results])
     print("Generated per Go major:", json.dumps(counts, sort_keys=True), flush=True)
-    write_go_readme(root, [lib for lib, _ in results], counts, args.crawl_count)
+    if not args.crawl or reached_end:
+        file_counts = count_md_files(root)
+        print("On-disk per Go major:", json.dumps(file_counts, sort_keys=True), flush=True)
+        write_go_readme(root, [lib for lib, _ in results], file_counts, args.crawl_count)
     return 0
 
 
