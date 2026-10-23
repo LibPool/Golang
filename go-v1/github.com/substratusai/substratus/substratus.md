@@ -1,0 +1,45 @@
+# github.com/substratusai/substratus
+
+> 标签: com, github.com, go, golang, substratus, substratusai
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/substratusai/substratus。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/substratusai/substratus
+- 源码仓库：https://github.com/substratusai/substratus
+
+## 历史版本号
+
+- 当前版本：v0.10.1
+
+- v0.3.2-alpha
+- v0.4.0-alpha
+- v0.4.1-alpha
+- v0.4.2-alpha
+- v0.5.0-alpha
+- v0.6.0-alpha
+- v0.6.1-alpha
+- v0.6.2-alpha
+- v0.6.4-alpha
+- v0.6.5-alpha
+- v0.7.0-alpha
+- v0.8.0
+- v0.8.1
+- v0.8.2
+- v0.8.3
+- v0.9.0
+- v0.9.1
+- v0.9.2
+- v0.10.0
+- v0.10.1
+- 共 27 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/substratusai/substratus@v0.10.1`
+- 模块代理：https://proxy.golang.org/github.com/substratusai/substratus/@v/list

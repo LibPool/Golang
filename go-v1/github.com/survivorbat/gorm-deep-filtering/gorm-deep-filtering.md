@@ -1,0 +1,36 @@
+# github.com/survivorbat/gorm-deep-filtering
+
+> 标签: com, github.com, go, golang, gorm-deep-filtering, survivorbat
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/survivorbat/gorm-deep-filtering。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/survivorbat/gorm-deep-filtering
+- 源码仓库：https://github.com/survivorbat/gorm-deep-filtering
+
+## 历史版本号
+
+- 当前版本：v0.3.0
+
+- v0.0.0
+- v0.0.1
+- v0.0.2
+- v0.0.3
+- v0.0.4
+- v0.0.5
+- v0.0.7
+- v0.0.8
+- v0.1.0
+- v0.1.1
+- v0.2.0
+- v0.3.0
+
+## 获取地址
+
+- go mod 下载：`go get github.com/survivorbat/gorm-deep-filtering@v0.3.0`
+- 模块代理：https://proxy.golang.org/github.com/survivorbat/gorm-deep-filtering/@v/list

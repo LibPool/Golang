@@ -1,0 +1,33 @@
+# github.com/nguyenkndinh/cloud-provider-aws
+
+> 标签: cloud-provider-aws, com, github.com, go, golang, nguyenkndinh
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/nguyenkndinh/cloud-provider-aws。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/nguyenkndinh/cloud-provider-aws
+- 源码仓库：https://github.com/nguyenkndinh/cloud-provider-aws
+
+## 历史版本号
+
+- 当前版本：v1.23.0-alpha.0
+
+- v1.18.0-alpha.0
+- v1.18.0-alpha.1
+- v1.19.0-alpha.0
+- v1.19.0-alpha.1
+- v1.20.0-alpha.0
+- v1.21.0-alpha.0
+- v1.22.0-alpha.0
+- v1.22.0-alpha.1
+- v1.23.0-alpha.0
+
+## 获取地址
+
+- go mod 下载：`go get github.com/nguyenkndinh/cloud-provider-aws@v1.23.0-alpha.0`
+- 模块代理：https://proxy.golang.org/github.com/nguyenkndinh/cloud-provider-aws/@v/list

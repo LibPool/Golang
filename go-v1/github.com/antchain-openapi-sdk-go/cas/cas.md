@@ -1,0 +1,31 @@
+# github.com/antchain-openapi-sdk-go/cas
+
+> 标签: antchain-openapi-sdk-go, cas, com, github.com, go, golang
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/antchain-openapi-sdk-go/cas。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/antchain-openapi-sdk-go/cas
+- 源码仓库：https://github.com/antchain-openapi-sdk-go/cas
+
+## 历史版本号
+
+- 当前版本：v1.4.59
+
+- v1.3.17
+- v1.3.19
+- v1.4.11
+- v1.4.13
+- v1.4.14
+- v1.4.58
+- v1.4.59
+
+## 获取地址
+
+- go mod 下载：`go get github.com/antchain-openapi-sdk-go/cas@v1.4.59`
+- 模块代理：https://proxy.golang.org/github.com/antchain-openapi-sdk-go/cas/@v/list

@@ -1,0 +1,45 @@
+# github.com/pcsx2/pcsx2
+
+> 标签: com, github.com, go, golang, pcsx2
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/pcsx2/pcsx2。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/pcsx2/pcsx2
+- 源码仓库：https://github.com/pcsx2/pcsx2
+
+## 历史版本号
+
+- 当前版本：v2.9.142+incompatible
+
+- v2.9.123+incompatible
+- v2.9.124+incompatible
+- v2.9.125+incompatible
+- v2.9.126+incompatible
+- v2.9.127+incompatible
+- v2.9.128+incompatible
+- v2.9.129+incompatible
+- v2.9.130+incompatible
+- v2.9.131+incompatible
+- v2.9.132+incompatible
+- v2.9.133+incompatible
+- v2.9.134+incompatible
+- v2.9.135+incompatible
+- v2.9.136+incompatible
+- v2.9.137+incompatible
+- v2.9.138+incompatible
+- v2.9.139+incompatible
+- v2.9.140+incompatible
+- v2.9.141+incompatible
+- v2.9.142+incompatible
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/pcsx2/pcsx2@v2.9.142+incompatible`
+- 模块代理：https://proxy.golang.org/github.com/pcsx2/pcsx2/@v/list

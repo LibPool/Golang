@@ -1,0 +1,45 @@
+# github.com/andyollylarkin/smudge-custom-transport
+
+> 标签: andyollylarkin, com, github.com, go, golang, smudge-custom-transport
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/andyollylarkin/smudge-custom-transport。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/andyollylarkin/smudge-custom-transport
+- 源码仓库：https://github.com/andyollylarkin/smudge-custom-transport
+
+## 历史版本号
+
+- 当前版本：v1.0.12
+
+- v1.0.6-dev-7
+- v1.0.6-dev-8
+- v1.0.6-dev-9
+- v1.0.7
+- v1.0.8
+- v1.0.8-dev-1
+- v1.0.8-dev-10
+- v1.0.8-dev-2
+- v1.0.8-dev-3
+- v1.0.8-dev-4
+- v1.0.8-dev-5
+- v1.0.8-dev-6
+- v1.0.8-dev-7
+- v1.0.8-dev-8
+- v1.0.8-dev-9
+- v1.0.9
+- v1.0.10
+- v1.0.11
+- v1.0.11-dev-1
+- v1.0.12
+- 共 36 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/andyollylarkin/smudge-custom-transport@v1.0.12`
+- 模块代理：https://proxy.golang.org/github.com/andyollylarkin/smudge-custom-transport/@v/list

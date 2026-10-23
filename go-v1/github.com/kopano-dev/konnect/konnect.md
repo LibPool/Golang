@@ -1,0 +1,45 @@
+# github.com/kopano-dev/konnect
+
+> 标签: com, github.com, go, golang, konnect, kopano-dev
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/kopano-dev/konnect。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/kopano-dev/konnect
+- 源码仓库：https://github.com/kopano-dev/konnect
+
+## 历史版本号
+
+- 当前版本：v0.34.0
+
+- v0.27.0
+- v0.28.0
+- v0.28.1
+- v0.29.0
+- v0.30.0
+- v0.31.0
+- v0.32.0
+- v0.33.0
+- v0.33.1
+- v0.33.2
+- v0.33.3
+- v0.33.4
+- v0.33.5
+- v0.33.6
+- v0.33.7
+- v0.33.8
+- v0.33.9
+- v0.33.10
+- v0.33.11
+- v0.34.0
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/kopano-dev/konnect@v0.34.0`
+- 模块代理：https://proxy.golang.org/github.com/kopano-dev/konnect/@v/list

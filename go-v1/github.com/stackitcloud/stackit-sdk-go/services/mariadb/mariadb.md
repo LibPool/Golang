@@ -1,0 +1,45 @@
+# github.com/stackitcloud/stackit-sdk-go/services/mariadb
+
+> 标签: com, github.com, go, golang, mariadb, services, stackit-sdk-go, stackitcloud
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/stackitcloud/stackit-sdk-go/services/mariadb。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/stackitcloud/stackit-sdk-go/services/mariadb
+- 源码仓库：https://github.com/stackitcloud/stackit-sdk-go
+
+## 历史版本号
+
+- 当前版本：v1.4.0
+
+- v0.25.5
+- v0.25.6
+- v0.26.0
+- v0.27.0
+- v0.27.1
+- v0.27.2
+- v0.27.3
+- v0.28.0
+- v0.28.1
+- v0.28.2
+- v0.29.0
+- v0.30.0
+- v1.0.0
+- v1.0.1
+- v1.1.0
+- v1.2.0
+- v1.2.1
+- v1.3.0
+- v1.3.1
+- v1.4.0
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/stackitcloud/stackit-sdk-go/services/mariadb@v1.4.0`
+- 模块代理：https://proxy.golang.org/github.com/stackitcloud/stackit-sdk-go/services/mariadb/@v/list

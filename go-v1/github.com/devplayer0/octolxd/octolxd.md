@@ -1,0 +1,26 @@
+# github.com/devplayer0/octolxd
+
+> 标签: com, devplayer0, github.com, go, golang, octolxd
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/devplayer0/octolxd。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/devplayer0/octolxd
+- 源码仓库：https://github.com/devplayer0/octolxd
+
+## 历史版本号
+
+- 当前版本：v0.1.1
+
+- v0.1.0
+- v0.1.1
+
+## 获取地址
+
+- go mod 下载：`go get github.com/devplayer0/octolxd@v0.1.1`
+- 模块代理：https://proxy.golang.org/github.com/devplayer0/octolxd/@v/list

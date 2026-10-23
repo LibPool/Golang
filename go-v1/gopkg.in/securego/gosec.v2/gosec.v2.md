@@ -1,0 +1,44 @@
+# gopkg.in/securego/gosec.v2
+
+> 标签: go, golang, gopkg.in, gosec.v2, in, securego
+
+## 简介
+
+Go module，由 index.golang.org 收录：gopkg.in/securego/gosec.v2。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/gopkg.in/securego/gosec.v2
+
+## 历史版本号
+
+- 当前版本：v2.30.0
+
+- v2.22.9
+- v2.22.10
+- v2.22.11
+- v2.23.0
+- v2.24.0
+- v2.24.1
+- v2.24.2
+- v2.24.3
+- v2.24.4
+- v2.24.5
+- v2.24.6
+- v2.24.7
+- v2.25.0
+- v2.26.0
+- v2.26.1
+- v2.27.0
+- v2.27.1
+- v2.28.0
+- v2.29.0
+- v2.30.0
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get gopkg.in/securego/gosec.v2@v2.30.0`
+- 模块代理：https://proxy.golang.org/gopkg.in/securego/gosec.v2/@v/list

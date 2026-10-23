@@ -1,0 +1,26 @@
+# github.com/mach6/drone-runner-ssh
+
+> 标签: com, drone-runner-ssh, github.com, go, golang, mach6
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/mach6/drone-runner-ssh。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/mach6/drone-runner-ssh
+- 源码仓库：https://github.com/mach6/drone-runner-ssh
+
+## 历史版本号
+
+- 当前版本：v1.0.1
+
+- v1.0.0
+- v1.0.1
+
+## 获取地址
+
+- go mod 下载：`go get github.com/mach6/drone-runner-ssh@v1.0.1`
+- 模块代理：https://proxy.golang.org/github.com/mach6/drone-runner-ssh/@v/list

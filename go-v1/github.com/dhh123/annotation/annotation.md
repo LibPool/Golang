@@ -1,0 +1,45 @@
+# github.com/dhh123/annotation
+
+> 标签: annotation, com, dhh123, github.com, go, golang
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/dhh123/annotation。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/dhh123/annotation
+- 源码仓库：https://github.com/dhh123/annotation
+
+## 历史版本号
+
+- 当前版本：v8.0.4+incompatible
+
+- v5.0.9+incompatible
+- v5.0.10+incompatible
+- v6.0.0+incompatible
+- v6.0.1+incompatible
+- v6.0.2+incompatible
+- v6.0.3+incompatible
+- v6.0.6+incompatible
+- v6.0.7+incompatible
+- v6.0.8+incompatible
+- v6.0.9+incompatible
+- v7.0.0+incompatible
+- v7.0.1+incompatible
+- v7.0.3+incompatible
+- v7.0.4+incompatible
+- v7.0.5+incompatible
+- v7.0.6+incompatible
+- v7.0.7+incompatible
+- v7.0.8+incompatible
+- v7.0.9+incompatible
+- v8.0.4+incompatible
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/dhh123/annotation@v8.0.4+incompatible`
+- 模块代理：https://proxy.golang.org/github.com/dhh123/annotation/@v/list

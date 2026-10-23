@@ -1,0 +1,27 @@
+# github.com/cryptix/qor_session
+
+> 标签: com, cryptix, github.com, go, golang, qor_session
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/cryptix/qor_session。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/cryptix/qor_session
+- 源码仓库：https://github.com/cryptix/qor_session
+
+## 历史版本号
+
+- 当前版本：v0.0.2-cryptix
+
+- v0.0.0-cryptix
+- v0.0.1-cryptix
+- v0.0.2-cryptix
+
+## 获取地址
+
+- go mod 下载：`go get github.com/cryptix/qor_session@v0.0.2-cryptix`
+- 模块代理：https://proxy.golang.org/github.com/cryptix/qor_session/@v/list

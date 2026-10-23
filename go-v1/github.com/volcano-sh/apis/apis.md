@@ -1,0 +1,45 @@
+# github.com/volcano-sh/apis
+
+> 标签: apis, com, github.com, go, golang, volcano-sh
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/volcano-sh/apis。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/volcano-sh/apis
+- 源码仓库：https://github.com/volcano-sh/apis
+
+## 历史版本号
+
+- 当前版本：v1.19.6-1
+
+- v1.13.1
+- v1.13.2
+- v1.13.3
+- v1.13.4
+- v1.13.5
+- v1.14.0
+- v1.14.1
+- v1.14.2
+- v1.14.3
+- v1.14.4
+- v1.14.5
+- v1.14.6
+- v1.15.0
+- v1.15.1
+- v1.15.2
+- v1.15.3
+- v1.16.0
+- v1.16.15
+- v1.19.6
+- v1.19.6-1
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/volcano-sh/apis@v1.19.6-1`
+- 模块代理：https://proxy.golang.org/github.com/volcano-sh/apis/@v/list

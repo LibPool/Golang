@@ -1,0 +1,44 @@
+# buf.build/gen/go/bufbuild/registry/grpc/go
+
+> 标签: buf.build, bufbuild, build, gen, go, golang, grpc, registry
+
+## 简介
+
+Go module，由 index.golang.org 收录：buf.build/gen/go/bufbuild/registry/grpc/go。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/buf.build/gen/go/bufbuild/registry/grpc/go
+
+## 历史版本号
+
+- 当前版本：v1.6.2-20261021182822-0b1ad74125ef.1
+
+- v1.6.2-20260506163219-db694e5a7651.1
+- v1.6.2-20260506191125-db9f7abb69a0.1
+- v1.6.2-20260507063250-43b0c5a6cd08.1
+- v1.6.2-20260610134905-7e419c5bd258.1
+- v1.6.2-20260623175826-aa9c349bbdbe.1
+- v1.6.2-20260623180312-64dc593d6fa5.1
+- v1.6.2-20260713175918-10d915f5b43b.1
+- v1.6.2-20260831211851-b4432e12a6e7.1
+- v1.6.2-20260917220747-82d6da681af1.1
+- v1.6.2-20260922134654-36be14124d5a.1
+- v1.6.2-20260924181647-4db8bcd5fef7.1
+- v1.6.2-20260924183906-bf07a47945f3.1
+- v1.6.2-20260928171354-147cdf0d0884.1
+- v1.6.2-20260930211409-f406cd0c7485.1
+- v1.6.2-20261005181919-5b8a3b267511.1
+- v1.6.2-20261006190621-8c688359738f.1
+- v1.6.2-20261009230124-4d217860dade.1
+- v1.6.2-20261012202254-0d982fa084c7.1
+- v1.6.2-20261015154428-c661e2f1fba9.1
+- v1.6.2-20261021182822-0b1ad74125ef.1
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get buf.build/gen/go/bufbuild/registry/grpc/go@v1.6.2-20261021182822-0b1ad74125ef.1`
+- 模块代理：https://proxy.golang.org/buf.build/gen/go/bufbuild/registry/grpc/go/@v/list

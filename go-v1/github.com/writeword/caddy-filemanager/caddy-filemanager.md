@@ -1,0 +1,25 @@
+# github.com/writeword/caddy-filemanager
+
+> 标签: caddy-filemanager, com, github.com, go, golang, writeword
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/writeword/caddy-filemanager。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/writeword/caddy-filemanager
+- 源码仓库：https://github.com/writeword/caddy-filemanager
+
+## 历史版本号
+
+- 当前版本：v0.0.1
+
+- v0.0.1
+
+## 获取地址
+
+- go mod 下载：`go get github.com/writeword/caddy-filemanager@v0.0.1`
+- 模块代理：https://proxy.golang.org/github.com/writeword/caddy-filemanager/@v/list

@@ -1,0 +1,26 @@
+# github.com/devfans/go-conflux-sdk
+
+> 标签: com, devfans, github.com, go, go-conflux-sdk, golang
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/devfans/go-conflux-sdk。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/devfans/go-conflux-sdk
+- 源码仓库：https://github.com/devfans/go-conflux-sdk
+
+## 历史版本号
+
+- 当前版本：v0.0.2
+
+- v0.0.1
+- v0.0.2
+
+## 获取地址
+
+- go mod 下载：`go get github.com/devfans/go-conflux-sdk@v0.0.2`
+- 模块代理：https://proxy.golang.org/github.com/devfans/go-conflux-sdk/@v/list

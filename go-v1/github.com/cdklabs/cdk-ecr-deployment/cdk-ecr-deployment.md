@@ -1,0 +1,45 @@
+# github.com/cdklabs/cdk-ecr-deployment
+
+> 标签: cdk-ecr-deployment, cdklabs, com, github.com, go, golang
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/cdklabs/cdk-ecr-deployment。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/cdklabs/cdk-ecr-deployment
+- 源码仓库：https://github.com/cdklabs/cdk-ecr-deployment
+
+## 历史版本号
+
+- 当前版本：v4.2.74+incompatible
+
+- v4.2.55+incompatible
+- v4.2.56+incompatible
+- v4.2.57+incompatible
+- v4.2.58+incompatible
+- v4.2.59+incompatible
+- v4.2.60+incompatible
+- v4.2.61+incompatible
+- v4.2.62+incompatible
+- v4.2.63+incompatible
+- v4.2.64+incompatible
+- v4.2.65+incompatible
+- v4.2.66+incompatible
+- v4.2.67+incompatible
+- v4.2.68+incompatible
+- v4.2.69+incompatible
+- v4.2.70+incompatible
+- v4.2.71+incompatible
+- v4.2.72+incompatible
+- v4.2.73+incompatible
+- v4.2.74+incompatible
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/cdklabs/cdk-ecr-deployment@v4.2.74+incompatible`
+- 模块代理：https://proxy.golang.org/github.com/cdklabs/cdk-ecr-deployment/@v/list

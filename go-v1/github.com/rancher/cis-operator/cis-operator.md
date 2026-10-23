@@ -1,0 +1,45 @@
+# github.com/rancher/cis-operator
+
+> 标签: cis-operator, com, github.com, go, golang, rancher
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/rancher/cis-operator。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/rancher/cis-operator
+- 源码仓库：https://github.com/rancher/cis-operator
+
+## 历史版本号
+
+- 当前版本：v1.4.11-rc.1
+
+- v1.4.3
+- v1.4.3-rc.1
+- v1.4.3-rc.2
+- v1.4.4
+- v1.4.5
+- v1.4.5-rc.1
+- v1.4.5-rc.2
+- v1.4.6
+- v1.4.6-rc.1
+- v1.4.7
+- v1.4.7-rc.1
+- v1.4.7-rc.2
+- v1.4.8
+- v1.4.8-rc.1
+- v1.4.9
+- v1.4.9-rc.1
+- v1.4.9-rc.2
+- v1.4.10
+- v1.4.10-rc.1
+- v1.4.11-rc.1
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/rancher/cis-operator@v1.4.11-rc.1`
+- 模块代理：https://proxy.golang.org/github.com/rancher/cis-operator/@v/list

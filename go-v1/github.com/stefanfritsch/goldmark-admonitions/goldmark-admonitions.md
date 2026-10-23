@@ -1,0 +1,27 @@
+# github.com/stefanfritsch/goldmark-admonitions
+
+> 标签: com, github.com, go, golang, goldmark-admonitions, stefanfritsch
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/stefanfritsch/goldmark-admonitions。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/stefanfritsch/goldmark-admonitions
+- 源码仓库：https://github.com/stefanfritsch/goldmark-admonitions
+
+## 历史版本号
+
+- 当前版本：v1.1.1
+
+- v1.0.0
+- v1.1.0
+- v1.1.1
+
+## 获取地址
+
+- go mod 下载：`go get github.com/stefanfritsch/goldmark-admonitions@v1.1.1`
+- 模块代理：https://proxy.golang.org/github.com/stefanfritsch/goldmark-admonitions/@v/list

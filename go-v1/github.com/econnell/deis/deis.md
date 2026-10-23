@@ -1,0 +1,45 @@
+# github.com/econnell/deis
+
+> 标签: com, deis, econnell, github.com, go, golang
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/econnell/deis。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/econnell/deis
+- 源码仓库：https://github.com/econnell/deis
+
+## 历史版本号
+
+- 当前版本：v1.5.1
+
+- v0.13.1
+- v0.14.0
+- v0.14.1
+- v0.15.0
+- v0.15.1
+- v1.0.0
+- v1.0.1
+- v1.0.2
+- v1.1.0
+- v1.1.1
+- v1.1.1-azure
+- v1.2.0
+- v1.2.1
+- v1.2.2
+- v1.3.0
+- v1.3.1
+- v1.4.0
+- v1.4.1
+- v1.5.0
+- v1.5.1
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/econnell/deis@v1.5.1`
+- 模块代理：https://proxy.golang.org/github.com/econnell/deis/@v/list

@@ -1,0 +1,28 @@
+# github.com/khulnasoft-labs/fastdialer
+
+> 标签: com, fastdialer, github.com, go, golang, khulnasoft-labs
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/khulnasoft-labs/fastdialer。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/khulnasoft-labs/fastdialer
+- 源码仓库：https://github.com/khulnasoft-labs/fastdialer
+
+## 历史版本号
+
+- 当前版本：v0.0.38
+
+- v0.0.35
+- v0.0.36
+- v0.0.37
+- v0.0.38
+
+## 获取地址
+
+- go mod 下载：`go get github.com/khulnasoft-labs/fastdialer@v0.0.38`
+- 模块代理：https://proxy.golang.org/github.com/khulnasoft-labs/fastdialer/@v/list

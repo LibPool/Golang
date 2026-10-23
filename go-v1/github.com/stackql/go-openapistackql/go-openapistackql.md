@@ -1,0 +1,45 @@
+# github.com/stackql/go-openapistackql
+
+> 标签: com, github.com, go, go-openapistackql, golang, stackql
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/stackql/go-openapistackql。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/stackql/go-openapistackql
+- 源码仓库：https://github.com/stackql/go-openapistackql
+
+## 历史版本号
+
+- 当前版本：v0.1.3-alpha27
+
+- v0.1.3-alpha08
+- v0.1.3-alpha09
+- v0.1.3-alpha10
+- v0.1.3-alpha11
+- v0.1.3-alpha12
+- v0.1.3-alpha13
+- v0.1.3-alpha14
+- v0.1.3-alpha15
+- v0.1.3-alpha16
+- v0.1.3-alpha17
+- v0.1.3-alpha18
+- v0.1.3-alpha19
+- v0.1.3-alpha20
+- v0.1.3-alpha21
+- v0.1.3-alpha22
+- v0.1.3-alpha23
+- v0.1.3-alpha24
+- v0.1.3-alpha25
+- v0.1.3-alpha26
+- v0.1.3-alpha27
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/stackql/go-openapistackql@v0.1.3-alpha27`
+- 模块代理：https://proxy.golang.org/github.com/stackql/go-openapistackql/@v/list

@@ -1,0 +1,31 @@
+# github.com/openmaptiles/openmaptiles
+
+> 标签: com, github.com, go, golang, openmaptiles
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/openmaptiles/openmaptiles。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/openmaptiles/openmaptiles
+- 源码仓库：https://github.com/openmaptiles/openmaptiles
+
+## 历史版本号
+
+- 当前版本：v3.13.1+incompatible
+
+- v3.5.1+incompatible
+- v3.6.1+incompatible
+- v3.6.2+incompatible
+- v3.8.1+incompatible
+- v3.12.1+incompatible
+- v3.12.2+incompatible
+- v3.13.1+incompatible
+
+## 获取地址
+
+- go mod 下载：`go get github.com/openmaptiles/openmaptiles@v3.13.1+incompatible`
+- 模块代理：https://proxy.golang.org/github.com/openmaptiles/openmaptiles/@v/list

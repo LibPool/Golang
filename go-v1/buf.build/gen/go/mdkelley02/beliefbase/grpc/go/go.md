@@ -1,0 +1,44 @@
+# buf.build/gen/go/mdkelley02/beliefbase/grpc/go
+
+> 标签: beliefbase, buf.build, build, gen, go, golang, grpc, mdkelley02
+
+## 简介
+
+Go module，由 index.golang.org 收录：buf.build/gen/go/mdkelley02/beliefbase/grpc/go。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/buf.build/gen/go/mdkelley02/beliefbase/grpc/go
+
+## 历史版本号
+
+- 当前版本：v1.6.2-20241103010307-505321f530ac.1
+
+- v1.5.1-20241101070204-31b303e37df1.1
+- v1.5.1-20241101070204-31b303e37df1.2
+- v1.5.1-20241102022326-d54cc562795e.1
+- v1.5.1-20241102022326-d54cc562795e.2
+- v1.5.1-20241102080619-7d9abb8f5c65.1
+- v1.5.1-20241102080619-7d9abb8f5c65.2
+- v1.5.1-20241103010307-505321f530ac.1
+- v1.5.1-20241103010307-505321f530ac.2
+- v1.6.0-20241101070204-31b303e37df1.1
+- v1.6.0-20241102022326-d54cc562795e.1
+- v1.6.0-20241102080619-7d9abb8f5c65.1
+- v1.6.0-20241103010307-505321f530ac.1
+- v1.6.1-20241101070204-31b303e37df1.1
+- v1.6.1-20241102022326-d54cc562795e.1
+- v1.6.1-20241102080619-7d9abb8f5c65.1
+- v1.6.1-20241103010307-505321f530ac.1
+- v1.6.2-20241101070204-31b303e37df1.1
+- v1.6.2-20241102022326-d54cc562795e.1
+- v1.6.2-20241102080619-7d9abb8f5c65.1
+- v1.6.2-20241103010307-505321f530ac.1
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get buf.build/gen/go/mdkelley02/beliefbase/grpc/go@v1.6.2-20241103010307-505321f530ac.1`
+- 模块代理：https://proxy.golang.org/buf.build/gen/go/mdkelley02/beliefbase/grpc/go/@v/list

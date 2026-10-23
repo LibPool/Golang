@@ -1,0 +1,44 @@
+# buf.build/gen/go/minor/unity-identity-auth-ds/grpc/go
+
+> 标签: buf.build, build, gen, go, golang, grpc, minor, unity-identity-auth-ds
+
+## 简介
+
+Go module，由 index.golang.org 收录：buf.build/gen/go/minor/unity-identity-auth-ds/grpc/go。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/buf.build/gen/go/minor/unity-identity-auth-ds/grpc/go
+
+## 历史版本号
+
+- 当前版本：v1.6.2-20261016103712-ea672812f343.1
+
+- v1.6.2-20260123111017-cf3ea467fa69.1
+- v1.6.2-20260203042745-c89a71888052.1
+- v1.6.2-20260205043435-69d49e413b41.1
+- v1.6.2-20260205044307-0eaabd4cfb1b.1
+- v1.6.2-20260311092039-8124004224e8.1
+- v1.6.2-20260312074714-52e0dec63be2.1
+- v1.6.2-20260312075437-639f7aae21f2.1
+- v1.6.2-20260318102103-69bcc6e3f581.1
+- v1.6.2-20260402105115-f9e94e230443.1
+- v1.6.2-20260403091914-8d5a1b040249.1
+- v1.6.2-20260409073035-1db3e4abd940.1
+- v1.6.2-20260529052038-98973cb83b8c.1
+- v1.6.2-20260529091437-c85492625116.1
+- v1.6.2-20260629050731-86cbea6be416.1
+- v1.6.2-20260701033602-2a4532cf1844.1
+- v1.6.2-20261016065038-6d429ade6978.1
+- v1.6.2-20261016070919-2e3e136278c5.1
+- v1.6.2-20261016082527-dddc56914ea7.1
+- v1.6.2-20261016100426-5300c9165975.1
+- v1.6.2-20261016103712-ea672812f343.1
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get buf.build/gen/go/minor/unity-identity-auth-ds/grpc/go@v1.6.2-20261016103712-ea672812f343.1`
+- 模块代理：https://proxy.golang.org/buf.build/gen/go/minor/unity-identity-auth-ds/grpc/go/@v/list

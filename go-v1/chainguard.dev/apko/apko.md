@@ -1,0 +1,44 @@
+# chainguard.dev/apko
+
+> 标签: apko, chainguard.dev, dev, go, golang
+
+## 简介
+
+Go module，由 index.golang.org 收录：chainguard.dev/apko。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/chainguard.dev/apko
+
+## 历史版本号
+
+- 当前版本：v1.4.12
+
+- v1.2.41
+- v1.2.42
+- v1.2.43
+- v1.2.44
+- v1.2.45
+- v1.3.0
+- v1.3.1
+- v1.4.0
+- v1.4.1
+- v1.4.2
+- v1.4.3
+- v1.4.4
+- v1.4.5
+- v1.4.6
+- v1.4.7
+- v1.4.8
+- v1.4.9
+- v1.4.10
+- v1.4.11
+- v1.4.12
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get chainguard.dev/apko@v1.4.12`
+- 模块代理：https://proxy.golang.org/chainguard.dev/apko/@v/list

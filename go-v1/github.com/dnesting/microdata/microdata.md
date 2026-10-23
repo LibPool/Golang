@@ -1,0 +1,25 @@
+# github.com/dnesting/microdata
+
+> 标签: com, dnesting, github.com, go, golang, microdata
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/dnesting/microdata。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/dnesting/microdata
+- 源码仓库：https://github.com/dnesting/microdata
+
+## 历史版本号
+
+- 当前版本：v0.0.3
+
+- v0.0.3
+
+## 获取地址
+
+- go mod 下载：`go get github.com/dnesting/microdata@v0.0.3`
+- 模块代理：https://proxy.golang.org/github.com/dnesting/microdata/@v/list

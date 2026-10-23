@@ -1,0 +1,31 @@
+# github.com/jaxxstorm/ploy
+
+> 标签: com, github.com, go, golang, jaxxstorm, ploy
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/jaxxstorm/ploy。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/jaxxstorm/ploy
+- 源码仓库：https://github.com/jaxxstorm/ploy
+
+## 历史版本号
+
+- 当前版本：v0.0.3-alpha.1
+
+- v0.0.1
+- v0.0.2
+- v0.0.2-alpha
+- v0.0.2-alpha.1
+- v0.0.2-alpha.2
+- v0.0.3
+- v0.0.3-alpha.1
+
+## 获取地址
+
+- go mod 下载：`go get github.com/jaxxstorm/ploy@v0.0.3-alpha.1`
+- 模块代理：https://proxy.golang.org/github.com/jaxxstorm/ploy/@v/list

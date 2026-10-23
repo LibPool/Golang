@@ -1,0 +1,27 @@
+# github.com/Azure/azure-container-networking/zapai
+
+> 标签: Azure, azure-container-networking, com, github.com, go, golang, zapai
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/Azure/azure-container-networking/zapai。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/Azure/azure-container-networking/zapai
+- 源码仓库：https://github.com/Azure/azure-container-networking
+
+## 历史版本号
+
+- 当前版本：v0.0.3
+
+- v0.0.1
+- v0.0.2
+- v0.0.3
+
+## 获取地址
+
+- go mod 下载：`go get github.com/Azure/azure-container-networking/zapai@v0.0.3`
+- 模块代理：https://proxy.golang.org/github.com/%21azure/azure-container-networking/zapai/@v/list

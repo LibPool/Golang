@@ -1,0 +1,39 @@
+# github.com/pmalhaire/xk6-mqtt
+
+> 标签: com, github.com, go, golang, pmalhaire, xk6-mqtt
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/pmalhaire/xk6-mqtt。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/pmalhaire/xk6-mqtt
+- 源码仓库：https://github.com/pmalhaire/xk6-mqtt
+
+## 历史版本号
+
+- 当前版本：v0.40.3
+
+- v0.0.1
+- v0.0.2
+- v0.0.3
+- v0.0.4
+- v0.1.0
+- v0.1.1
+- v0.37.0
+- v0.38.0
+- v0.39.0
+- v0.39.1
+- v0.39.2
+- v0.40.0
+- v0.40.1
+- v0.40.2
+- v0.40.3
+
+## 获取地址
+
+- go mod 下载：`go get github.com/pmalhaire/xk6-mqtt@v0.40.3`
+- 模块代理：https://proxy.golang.org/github.com/pmalhaire/xk6-mqtt/@v/list

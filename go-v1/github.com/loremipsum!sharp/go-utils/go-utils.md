@@ -1,0 +1,29 @@
+# github.com/loremipsumSharp/go-utils
+
+> 标签: com, github.com, go, go-utils, golang, loremipsumSharp
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/loremipsumSharp/go-utils。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/loremipsumSharp/go-utils
+- 源码仓库：https://github.com/loremipsumSharp/go-utils
+
+## 历史版本号
+
+- 当前版本：v1.0.0
+
+- v0.0.1-alpha.1
+- v0.0.1-alpha.2
+- v0.0.1-alpha.3
+- v0.0.1-alpha.4
+- v1.0.0
+
+## 获取地址
+
+- go mod 下载：`go get github.com/loremipsumSharp/go-utils@v1.0.0`
+- 模块代理：https://proxy.golang.org/github.com/loremipsum%21sharp/go-utils/@v/list

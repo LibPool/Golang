@@ -1,0 +1,44 @@
+# buf.build/gen/go/minor/unity-address-ds/protocolbuffers/go
+
+> 标签: buf.build, build, gen, go, golang, minor, protocolbuffers, unity-address-ds
+
+## 简介
+
+Go module，由 index.golang.org 收录：buf.build/gen/go/minor/unity-address-ds/protocolbuffers/go。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/buf.build/gen/go/minor/unity-address-ds/protocolbuffers/go
+
+## 历史版本号
+
+- 当前版本：v1.36.12-20240318035519-668e702baffc.2
+
+- v1.36.12-20240213040539-856c5ebfaf17.1
+- v1.36.12-20240213040539-856c5ebfaf17.2
+- v1.36.12-20240213041440-d281c9ed1eb9.1
+- v1.36.12-20240213041440-d281c9ed1eb9.2
+- v1.36.12-20240315090953-811b20df856d.1
+- v1.36.12-20240315090953-811b20df856d.2
+- v1.36.12-20240315093951-d7d10a272c45.1
+- v1.36.12-20240315093951-d7d10a272c45.2
+- v1.36.12-20240315095354-b90dacc6b59a.1
+- v1.36.12-20240315095354-b90dacc6b59a.2
+- v1.36.12-20240315095437-008793a48862.1
+- v1.36.12-20240315095437-008793a48862.2
+- v1.36.12-20240318033244-e4650ba30733.1
+- v1.36.12-20240318033244-e4650ba30733.2
+- v1.36.12-20240318035039-5abe3698a4ad.1
+- v1.36.12-20240318035039-5abe3698a4ad.2
+- v1.36.12-20240318035501-2c2609acee33.1
+- v1.36.12-20240318035501-2c2609acee33.2
+- v1.36.12-20240318035519-668e702baffc.1
+- v1.36.12-20240318035519-668e702baffc.2
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get buf.build/gen/go/minor/unity-address-ds/protocolbuffers/go@v1.36.12-20240318035519-668e702baffc.2`
+- 模块代理：https://proxy.golang.org/buf.build/gen/go/minor/unity-address-ds/protocolbuffers/go/@v/list

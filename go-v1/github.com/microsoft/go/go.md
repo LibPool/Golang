@@ -1,0 +1,45 @@
+# github.com/microsoft/go
+
+> 标签: com, github.com, go, golang, microsoft
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/microsoft/go。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/microsoft/go
+- 源码仓库：https://github.com/microsoft/go
+
+## 历史版本号
+
+- 当前版本：v1.27.3-1
+
+- v1.25.13-1
+- v1.25.14-1
+- v1.26.0-1
+- v1.26.1-1
+- v1.26.2-1
+- v1.26.3-1
+- v1.26.4-1
+- v1.26.5-1
+- v1.26.5-2
+- v1.26.6-1
+- v1.26.7-1
+- v1.26.8-1
+- v1.26.9-1
+- v1.26.10-1
+- v1.27.0-1
+- v1.27.1-1
+- v1.27.1-2
+- v1.27.2-1
+- v1.27.2-2
+- v1.27.3-1
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/microsoft/go@v1.27.3-1`
+- 模块代理：https://proxy.golang.org/github.com/microsoft/go/@v/list

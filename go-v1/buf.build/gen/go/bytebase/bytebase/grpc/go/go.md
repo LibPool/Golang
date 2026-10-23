@@ -1,0 +1,44 @@
+# buf.build/gen/go/bytebase/bytebase/grpc/go
+
+> 标签: buf.build, build, bytebase, gen, go, golang, grpc
+
+## 简介
+
+Go module，由 index.golang.org 收录：buf.build/gen/go/bytebase/bytebase/grpc/go。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/buf.build/gen/go/bytebase/bytebase/grpc/go
+
+## 历史版本号
+
+- 当前版本：v1.6.2-20261023021908-d08896e6f6ef.1
+
+- v1.6.2-20260921022830-effb1dc30bdd.1
+- v1.6.2-20260923024914-e4a80a489b9d.1
+- v1.6.2-20260924030629-51cbc0328d34.1
+- v1.6.2-20260924034839-372fc22afa6e.1
+- v1.6.2-20260928041344-fd4815fd67bb.1
+- v1.6.2-20261009085809-ba1798946caf.1
+- v1.6.2-20261013073946-af8da7949154.1
+- v1.6.2-20261013084149-86421f885811.1
+- v1.6.2-20261013172100-df0a25fd75b8.1
+- v1.6.2-20261016033147-e4cfe9d55b0d.1
+- v1.6.2-20261016060721-fc24a6c52344.1
+- v1.6.2-20261016064826-7063090d3c8d.1
+- v1.6.2-20261016072139-68a65ed60be0.1
+- v1.6.2-20261016095941-1fbe31858185.1
+- v1.6.2-20261019003358-f047967193bf.1
+- v1.6.2-20261020082252-ff76c1333abb.1
+- v1.6.2-20261021051102-833383ba9515.1
+- v1.6.2-20261021175117-74c4399233c8.1
+- v1.6.2-20261022054008-32ae6efab969.1
+- v1.6.2-20261023021908-d08896e6f6ef.1
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get buf.build/gen/go/bytebase/bytebase/grpc/go@v1.6.2-20261023021908-d08896e6f6ef.1`
+- 模块代理：https://proxy.golang.org/buf.build/gen/go/bytebase/bytebase/grpc/go/@v/list

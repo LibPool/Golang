@@ -1,0 +1,45 @@
+# github.com/onflow/flow-go/crypto
+
+> 标签: com, crypto, flow-go, github.com, go, golang, onflow
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/onflow/flow-go/crypto。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/onflow/flow-go/crypto
+- 源码仓库：https://github.com/onflow/flow-go
+
+## 历史版本号
+
+- 当前版本：v0.25.1
+
+- v0.9.1
+- v0.9.4
+- v0.11.0
+- v0.12.0
+- v0.18.0
+- v0.21.3
+- v0.23.3
+- v0.24.2
+- v0.24.3
+- v0.24.4
+- v0.24.5
+- v0.24.5-fvm
+- v0.24.6
+- v0.24.6-pairing-fix
+- v0.24.7
+- v0.24.8
+- v0.24.9
+- v0.24.10
+- v0.25.0
+- v0.25.1
+- 共 23 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/onflow/flow-go/crypto@v0.25.1`
+- 模块代理：https://proxy.golang.org/github.com/onflow/flow-go/crypto/@v/list

@@ -1,0 +1,26 @@
+# go.opentelemetry.io/contrib/instrumentation/github.com/gocql/gocql/example
+
+> 标签: contrib, example, github.com, go, go.opentelemetry.io, gocql, golang, instrumentation, io
+
+## 简介
+
+Go module，由 index.golang.org 收录：go.opentelemetry.io/contrib/instrumentation/github.com/gocql/gocql/example。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/go.opentelemetry.io/contrib/instrumentation/github.com/gocql/gocql/example
+
+## 历史版本号
+
+- 当前版本：v0.11.0
+
+- v0.10.0
+- v0.10.1
+- v0.11.0
+
+## 获取地址
+
+- go mod 下载：`go get go.opentelemetry.io/contrib/instrumentation/github.com/gocql/gocql/example@v0.11.0`
+- 模块代理：https://proxy.golang.org/go.opentelemetry.io/contrib/instrumentation/github.com/gocql/gocql/example/@v/list

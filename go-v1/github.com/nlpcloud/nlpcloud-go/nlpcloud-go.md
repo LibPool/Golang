@@ -1,0 +1,45 @@
+# github.com/nlpcloud/nlpcloud-go
+
+> 标签: com, github.com, go, golang, nlpcloud, nlpcloud-go
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/nlpcloud/nlpcloud-go。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/nlpcloud/nlpcloud-go
+- 源码仓库：https://github.com/nlpcloud/nlpcloud-go
+
+## 历史版本号
+
+- 当前版本：v1.1.52
+
+- v1.1.35
+- v1.1.36
+- v1.1.37
+- v1.1.38
+- v1.1.39
+- v1.1.40
+- v1.1.41
+- v1.1.42
+- v1.1.43
+- v1.1.44
+- v1.1.45
+- v1.1.46
+- v1.1.47
+- v1.1.47-alpha.1
+- v1.1.47-alpha.2
+- v1.1.48
+- v1.1.49
+- v1.1.50
+- v1.1.51
+- v1.1.52
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/nlpcloud/nlpcloud-go@v1.1.52`
+- 模块代理：https://proxy.golang.org/github.com/nlpcloud/nlpcloud-go/@v/list

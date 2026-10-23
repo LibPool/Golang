@@ -1,0 +1,44 @@
+# gopkg.in/v2ray/v2ray-core.v4
+
+> 标签: go, golang, gopkg.in, in, v2ray, v2ray-core.v4
+
+## 简介
+
+Go module，由 index.golang.org 收录：gopkg.in/v2ray/v2ray-core.v4。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/gopkg.in/v2ray/v2ray-core.v4
+
+## 历史版本号
+
+- 当前版本：v4.15.0
+
+- v4.6.1
+- v4.6.2
+- v4.6.3
+- v4.6.4
+- v4.6.5
+- v4.6.6
+- v4.7.0
+- v4.7.1
+- v4.7.2
+- v4.7.3
+- v4.8.0
+- v4.9.0
+- v4.10.0
+- v4.11.0
+- v4.12.0
+- v4.13.0
+- v4.14.0
+- v4.14.1
+- v4.14.2
+- v4.15.0
+- 共 25 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get gopkg.in/v2ray/v2ray-core.v4@v4.15.0`
+- 模块代理：https://proxy.golang.org/gopkg.in/v2ray/v2ray-core.v4/@v/list

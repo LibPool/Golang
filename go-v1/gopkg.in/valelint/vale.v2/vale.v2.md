@@ -1,0 +1,44 @@
+# gopkg.in/valelint/vale.v2
+
+> 标签: go, golang, gopkg.in, in, vale.v2, valelint
+
+## 简介
+
+Go module，由 index.golang.org 收录：gopkg.in/valelint/vale.v2。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/gopkg.in/valelint/vale.v2
+
+## 历史版本号
+
+- 当前版本：v2.30.0
+
+- v2.24.3
+- v2.24.4
+- v2.25.0
+- v2.25.1
+- v2.25.2
+- v2.26.0
+- v2.27.0
+- v2.28.0
+- v2.28.1
+- v2.28.2
+- v2.28.3
+- v2.29.0
+- v2.29.1
+- v2.29.2
+- v2.29.3
+- v2.29.4
+- v2.29.5
+- v2.29.6
+- v2.29.7
+- v2.30.0
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get gopkg.in/valelint/vale.v2@v2.30.0`
+- 模块代理：https://proxy.golang.org/gopkg.in/valelint/vale.v2/@v/list

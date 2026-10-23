@@ -1,0 +1,45 @@
+# github.com/dennwc/yaegi
+
+> 标签: com, dennwc, github.com, go, golang, yaegi
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/dennwc/yaegi。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/dennwc/yaegi
+- 源码仓库：https://github.com/dennwc/yaegi
+
+## 历史版本号
+
+- 当前版本：v0.14.3
+
+- v0.9.15
+- v0.9.16
+- v0.9.17
+- v0.9.18
+- v0.9.19
+- v0.9.20
+- v0.9.21
+- v0.9.22
+- v0.9.23
+- v0.10.0
+- v0.11.0
+- v0.11.1
+- v0.11.2
+- v0.11.3
+- v0.12.0
+- v0.13.0
+- v0.14.0
+- v0.14.1
+- v0.14.2
+- v0.14.3
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/dennwc/yaegi@v0.14.3`
+- 模块代理：https://proxy.golang.org/github.com/dennwc/yaegi/@v/list

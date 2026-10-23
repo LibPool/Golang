@@ -1,0 +1,44 @@
+# gopkg.in/unidoc/unipdf.v3
+
+> 标签: go, golang, gopkg.in, in, unidoc, unipdf.v3
+
+## 简介
+
+Go module，由 index.golang.org 收录：gopkg.in/unidoc/unipdf.v3。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/gopkg.in/unidoc/unipdf.v3
+
+## 历史版本号
+
+- 当前版本：v3.69.0
+
+- v3.50.0
+- v3.51.0
+- v3.52.0
+- v3.53.0
+- v3.54.0
+- v3.55.0
+- v3.56.0
+- v3.57.0
+- v3.58.0
+- v3.59.0
+- v3.60.0
+- v3.61.0
+- v3.62.0
+- v3.63.0
+- v3.64.0
+- v3.65.0
+- v3.66.0
+- v3.67.0
+- v3.68.0
+- v3.69.0
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get gopkg.in/unidoc/unipdf.v3@v3.69.0`
+- 模块代理：https://proxy.golang.org/gopkg.in/unidoc/unipdf.v3/@v/list

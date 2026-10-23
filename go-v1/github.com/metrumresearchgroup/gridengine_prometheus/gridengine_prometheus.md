@@ -1,0 +1,43 @@
+# github.com/metrumresearchgroup/gridengine_prometheus
+
+> 标签: com, github.com, go, golang, gridengine_prometheus, metrumresearchgroup
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/metrumresearchgroup/gridengine_prometheus。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/metrumresearchgroup/gridengine_prometheus
+- 源码仓库：https://github.com/metrumresearchgroup/gridengine_prometheus
+
+## 历史版本号
+
+- 当前版本：v0.1.14
+
+- v0.0.14
+- v0.0.14-rc1
+- v0.0.14-rc2
+- v0.0.14-rc3
+- v0.1.0
+- v0.1.1
+- v0.1.2
+- v0.1.3
+- v0.1.4
+- v0.1.5
+- v0.1.6
+- v0.1.7
+- v0.1.8
+- v0.1.9
+- v0.1.10
+- v0.1.11
+- v0.1.12
+- v0.1.13
+- v0.1.14
+
+## 获取地址
+
+- go mod 下载：`go get github.com/metrumresearchgroup/gridengine_prometheus@v0.1.14`
+- 模块代理：https://proxy.golang.org/github.com/metrumresearchgroup/gridengine_prometheus/@v/list

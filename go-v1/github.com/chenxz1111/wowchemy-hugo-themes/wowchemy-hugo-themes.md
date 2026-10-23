@@ -1,0 +1,26 @@
+# github.com/chenxz1111/wowchemy-hugo-themes
+
+> 标签: chenxz1111, com, github.com, go, golang, wowchemy-hugo-themes
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/chenxz1111/wowchemy-hugo-themes。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/chenxz1111/wowchemy-hugo-themes
+- 源码仓库：https://github.com/chenxz1111/wowchemy-hugo-themes
+
+## 历史版本号
+
+- 当前版本：v1.0.1
+
+- v1.0.0
+- v1.0.1
+
+## 获取地址
+
+- go mod 下载：`go get github.com/chenxz1111/wowchemy-hugo-themes@v1.0.1`
+- 模块代理：https://proxy.golang.org/github.com/chenxz1111/wowchemy-hugo-themes/@v/list

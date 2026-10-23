@@ -1,0 +1,44 @@
+# buf.build/gen/go/mtprm/mtprm-api-portfolio-beta/connectrpc/go
+
+> 标签: buf.build, build, connectrpc, gen, go, golang, mtprm, mtprm-api-portfolio-beta
+
+## 简介
+
+Go module，由 index.golang.org 收录：buf.build/gen/go/mtprm/mtprm-api-portfolio-beta/connectrpc/go。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/buf.build/gen/go/mtprm/mtprm-api-portfolio-beta/connectrpc/go
+
+## 历史版本号
+
+- 当前版本：v1.21.0-20241113174316-43300d933ef8.1
+
+- v1.21.0-20241007182451-338369be945d.1
+- v1.21.0-20241008163601-61bf088fe8cd.1
+- v1.21.0-20241008201028-4506e331457a.1
+- v1.21.0-20241011153213-acc7e8baae6e.1
+- v1.21.0-20241015192054-78aa8a9747f7.1
+- v1.21.0-20241015195456-77ee05df7576.1
+- v1.21.0-20241028173515-5ff65a5a58b9.1
+- v1.21.0-20241028174247-946755b8d767.1
+- v1.21.0-20241029135413-654183bb4f39.1
+- v1.21.0-20241029152019-8c3159287762.1
+- v1.21.0-20241029154649-aa3ff0cb174e.1
+- v1.21.0-20241029230733-b8808ddf275c.1
+- v1.21.0-20241101183542-ef5510f55267.1
+- v1.21.0-20241104225554-f9d3d0d64878.1
+- v1.21.0-20241107171150-afe4db976fa7.1
+- v1.21.0-20241107203753-df9032d791d4.1
+- v1.21.0-20241108171707-31cea26ae301.1
+- v1.21.0-20241108185748-789d7ab3ce4e.1
+- v1.21.0-20241108192633-3bb677f218c0.1
+- v1.21.0-20241113174316-43300d933ef8.1
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get buf.build/gen/go/mtprm/mtprm-api-portfolio-beta/connectrpc/go@v1.21.0-20241113174316-43300d933ef8.1`
+- 模块代理：https://proxy.golang.org/buf.build/gen/go/mtprm/mtprm-api-portfolio-beta/connectrpc/go/@v/list

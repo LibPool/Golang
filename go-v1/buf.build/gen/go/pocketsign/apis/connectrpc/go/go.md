@@ -1,0 +1,44 @@
+# buf.build/gen/go/pocketsign/apis/connectrpc/go
+
+> 标签: apis, buf.build, build, connectrpc, gen, go, golang, pocketsign
+
+## 简介
+
+Go module，由 index.golang.org 收录：buf.build/gen/go/pocketsign/apis/connectrpc/go。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/buf.build/gen/go/pocketsign/apis/connectrpc/go
+
+## 历史版本号
+
+- 当前版本：v1.21.0-20261023010225-f4994c51706c.1
+
+- v1.21.0-20260619064626-e5e95b496fc2.1
+- v1.21.0-20260622095921-d8eedf82c0ae.1
+- v1.21.0-20260623051258-33b3ef7fe928.1
+- v1.21.0-20260702060311-cb03ec47df26.1
+- v1.21.0-20260702061332-7bda4ba97ec8.1
+- v1.21.0-20260702064312-a4e56ca5773a.1
+- v1.21.0-20260721105924-2941425a0c3e.1
+- v1.21.0-20260727104152-a44c234ebf70.1
+- v1.21.0-20260730050002-2bcb816e4fb3.1
+- v1.21.0-20260730112303-9ad1a0a63da2.1
+- v1.21.0-20260803041206-339ddea46e28.1
+- v1.21.0-20260806123147-0297b54d935d.1
+- v1.21.0-20260806123347-eb706706b9df.1
+- v1.21.0-20260806124909-5e64bd3daad0.1
+- v1.21.0-20260814062419-21efa7b345f7.1
+- v1.21.0-20260814071958-590c1ebe2889.1
+- v1.21.0-20260825084822-771bec5b4cb0.1
+- v1.21.0-20260826021924-0ff29b2b0335.1
+- v1.21.0-20261013105838-b6e033b1b614.1
+- v1.21.0-20261023010225-f4994c51706c.1
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get buf.build/gen/go/pocketsign/apis/connectrpc/go@v1.21.0-20261023010225-f4994c51706c.1`
+- 模块代理：https://proxy.golang.org/buf.build/gen/go/pocketsign/apis/connectrpc/go/@v/list

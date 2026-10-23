@@ -1,0 +1,45 @@
+# github.com/thunnini/cosmos-sdk-tt
+
+> 标签: com, cosmos-sdk-tt, github.com, go, golang, thunnini
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/thunnini/cosmos-sdk-tt。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/thunnini/cosmos-sdk-tt
+- 源码仓库：https://github.com/thunnini/cosmos-sdk-tt
+
+## 历史版本号
+
+- 当前版本：v0.46.0-alpha2
+
+- v0.43.0-rc0
+- v0.43.0-rc1
+- v0.43.0-rc2
+- v0.43.0-rc3
+- v0.44.0
+- v0.44.1
+- v0.44.2
+- v0.44.2-osmo
+- v0.44.3
+- v0.44.3-osmo
+- v0.44.3-osmo-1
+- v0.44.3-osmo-v5-fast.0
+- v0.44.4
+- v0.44.5
+- v0.44.6
+- v0.45.0
+- v0.45.0-rc1
+- v0.45.1
+- v0.46.0-alpha1
+- v0.46.0-alpha2
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/thunnini/cosmos-sdk-tt@v0.46.0-alpha2`
+- 模块代理：https://proxy.golang.org/github.com/thunnini/cosmos-sdk-tt/@v/list

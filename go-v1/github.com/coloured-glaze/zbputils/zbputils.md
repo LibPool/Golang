@@ -1,0 +1,25 @@
+# github.com/coloured-glaze/zbputils
+
+> 标签: coloured-glaze, com, github.com, go, golang, zbputils
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/coloured-glaze/zbputils。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/coloured-glaze/zbputils
+- 源码仓库：https://github.com/coloured-glaze/zbputils
+
+## 历史版本号
+
+- 当前版本：v1.5.2
+
+- v1.5.2
+
+## 获取地址
+
+- go mod 下载：`go get github.com/coloured-glaze/zbputils@v1.5.2`
+- 模块代理：https://proxy.golang.org/github.com/coloured-glaze/zbputils/@v/list

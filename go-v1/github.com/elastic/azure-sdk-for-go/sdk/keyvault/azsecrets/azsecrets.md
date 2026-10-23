@@ -1,0 +1,33 @@
+# github.com/elastic/azure-sdk-for-go/sdk/keyvault/azsecrets
+
+> 标签: azsecrets, azure-sdk-for-go, com, elastic, github.com, go, golang, keyvault, sdk
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/elastic/azure-sdk-for-go/sdk/keyvault/azsecrets。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/elastic/azure-sdk-for-go/sdk/keyvault/azsecrets
+- 源码仓库：https://github.com/elastic/azure-sdk-for-go
+
+## 历史版本号
+
+- 当前版本：v0.7.1
+
+- v0.1.0
+- v0.1.1
+- v0.2.0
+- v0.3.0
+- v0.4.0
+- v0.5.0
+- v0.6.0
+- v0.7.0
+- v0.7.1
+
+## 获取地址
+
+- go mod 下载：`go get github.com/elastic/azure-sdk-for-go/sdk/keyvault/azsecrets@v0.7.1`
+- 模块代理：https://proxy.golang.org/github.com/elastic/azure-sdk-for-go/sdk/keyvault/azsecrets/@v/list

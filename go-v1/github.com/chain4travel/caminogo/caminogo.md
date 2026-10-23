@@ -1,0 +1,45 @@
+# github.com/chain4travel/caminogo
+
+> 标签: caminogo, chain4travel, com, github.com, go, golang
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/chain4travel/caminogo。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/chain4travel/caminogo
+- 源码仓库：https://github.com/chain4travel/caminogo
+
+## 历史版本号
+
+- 当前版本：v1.11.7-remove-optional-gatherer
+
+- v1.11.0-rc.1
+- v1.11.0-rc.2
+- v1.11.0-rc.4
+- v1.11.1
+- v1.11.2
+- v1.11.3
+- v1.11.3-fix-ami
+- v1.11.3-fix-ami.7
+- v1.11.4
+- v1.11.4-rc.1
+- v1.11.4-rc.2
+- v1.11.5
+- v1.11.5-rc.0
+- v1.11.5-rc.2
+- v1.11.5-rc.3
+- v1.11.6
+- v1.11.6-rc.0
+- v1.11.6-rc.1
+- v1.11.6-rc.2
+- v1.11.7-remove-optional-gatherer
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/chain4travel/caminogo@v1.11.7-remove-optional-gatherer`
+- 模块代理：https://proxy.golang.org/github.com/chain4travel/caminogo/@v/list

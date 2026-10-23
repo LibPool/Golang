@@ -1,0 +1,28 @@
+# github.com/google/go-p11-kit
+
+> 标签: com, github.com, go, go-p11-kit, golang, google
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/google/go-p11-kit。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/google/go-p11-kit
+- 源码仓库：https://github.com/google/go-p11-kit
+
+## 历史版本号
+
+- 当前版本：v0.4.0
+
+- v0.1.0
+- v0.2.0
+- v0.3.0
+- v0.4.0
+
+## 获取地址
+
+- go mod 下载：`go get github.com/google/go-p11-kit@v0.4.0`
+- 模块代理：https://proxy.golang.org/github.com/google/go-p11-kit/@v/list

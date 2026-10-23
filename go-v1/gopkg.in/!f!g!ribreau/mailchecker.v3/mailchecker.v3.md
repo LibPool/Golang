@@ -1,0 +1,44 @@
+# gopkg.in/FGRibreau/mailchecker.v3
+
+> 标签: FGRibreau, go, golang, gopkg.in, in, mailchecker.v3
+
+## 简介
+
+Go module，由 index.golang.org 收录：gopkg.in/FGRibreau/mailchecker.v3。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/gopkg.in/FGRibreau/mailchecker.v3
+
+## 历史版本号
+
+- 当前版本：v3.3.17
+
+- v3.2.38
+- v3.2.39
+- v3.3.0
+- v3.3.1
+- v3.3.2
+- v3.3.3
+- v3.3.4
+- v3.3.5
+- v3.3.6
+- v3.3.7
+- v3.3.8
+- v3.3.9
+- v3.3.10
+- v3.3.11
+- v3.3.12
+- v3.3.13
+- v3.3.14
+- v3.3.15
+- v3.3.16
+- v3.3.17
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get gopkg.in/FGRibreau/mailchecker.v3@v3.3.17`
+- 模块代理：https://proxy.golang.org/gopkg.in/%21f%21g%21ribreau/mailchecker.v3/@v/list

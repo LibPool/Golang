@@ -1,0 +1,25 @@
+# github.com/bblfsh/rust-driver
+
+> 标签: bblfsh, com, github.com, go, golang, rust-driver
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/bblfsh/rust-driver。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/bblfsh/rust-driver
+- 源码仓库：https://github.com/bblfsh/rust-driver
+
+## 历史版本号
+
+- 当前版本：v0.0.1
+
+- v0.0.1
+
+## 获取地址
+
+- go mod 下载：`go get github.com/bblfsh/rust-driver@v0.0.1`
+- 模块代理：https://proxy.golang.org/github.com/bblfsh/rust-driver/@v/list

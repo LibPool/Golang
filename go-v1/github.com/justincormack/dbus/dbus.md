@@ -1,0 +1,25 @@
+# github.com/justincormack/dbus
+
+> 标签: com, dbus, github.com, go, golang, justincormack
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/justincormack/dbus。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/justincormack/dbus
+- 源码仓库：https://github.com/justincormack/dbus
+
+## 历史版本号
+
+- 当前版本：v4.0.0+incompatible
+
+- v4.0.0+incompatible
+
+## 获取地址
+
+- go mod 下载：`go get github.com/justincormack/dbus@v4.0.0+incompatible`
+- 模块代理：https://proxy.golang.org/github.com/justincormack/dbus/@v/list

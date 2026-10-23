@@ -1,0 +1,45 @@
+# github.com/canonical/pebble
+
+> 标签: canonical, com, github.com, go, golang, pebble
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/canonical/pebble。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/canonical/pebble
+- 源码仓库：https://github.com/canonical/pebble
+
+## 历史版本号
+
+- 当前版本：v1.33.2-fips
+
+- v1.27.0-fips
+- v1.28.0
+- v1.28.0-fips
+- v1.29.0
+- v1.29.0-fips
+- v1.30.0
+- v1.30.1
+- v1.30.1-fips
+- v1.31.0
+- v1.31.0-fips
+- v1.32.0
+- v1.32.0-fips
+- v1.32.1
+- v1.32.2
+- v1.32.2-fips
+- v1.33.0
+- v1.33.0-fips
+- v1.33.1
+- v1.33.2
+- v1.33.2-fips
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/canonical/pebble@v1.33.2-fips`
+- 模块代理：https://proxy.golang.org/github.com/canonical/pebble/@v/list

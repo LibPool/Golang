@@ -1,0 +1,45 @@
+# github.com/browserslist/caniuse-lite
+
+> 标签: browserslist, caniuse-lite, com, github.com, go, golang
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/browserslist/caniuse-lite。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/browserslist/caniuse-lite
+- 源码仓库：https://github.com/browserslist/caniuse-lite
+
+## 历史版本号
+
+- 当前版本：v1.0.30001224
+
+- v1.0.30001202
+- v1.0.30001203
+- v1.0.30001204
+- v1.0.30001205
+- v1.0.30001207
+- v1.0.30001208
+- v1.0.30001209
+- v1.0.30001210
+- v1.0.30001211
+- v1.0.30001212
+- v1.0.30001214
+- v1.0.30001215
+- v1.0.30001216
+- v1.0.30001218
+- v1.0.30001219
+- v1.0.30001220
+- v1.0.30001221
+- v1.0.30001222
+- v1.0.30001223
+- v1.0.30001224
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/browserslist/caniuse-lite@v1.0.30001224`
+- 模块代理：https://proxy.golang.org/github.com/browserslist/caniuse-lite/@v/list

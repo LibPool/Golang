@@ -1,0 +1,44 @@
+# gopkg.in/tokopedia/elastic.v2
+
+> 标签: elastic.v2, go, golang, gopkg.in, in, tokopedia
+
+## 简介
+
+Go module，由 index.golang.org 收录：gopkg.in/tokopedia/elastic.v2。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/gopkg.in/tokopedia/elastic.v2
+
+## 历史版本号
+
+- 当前版本：v2.0.52
+
+- v2.0.33
+- v2.0.34
+- v2.0.35
+- v2.0.36
+- v2.0.37
+- v2.0.38
+- v2.0.39
+- v2.0.40
+- v2.0.41
+- v2.0.42
+- v2.0.43
+- v2.0.44
+- v2.0.45
+- v2.0.46
+- v2.0.47
+- v2.0.48
+- v2.0.49
+- v2.0.50
+- v2.0.51
+- v2.0.52
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get gopkg.in/tokopedia/elastic.v2@v2.0.52`
+- 模块代理：https://proxy.golang.org/gopkg.in/tokopedia/elastic.v2/@v/list

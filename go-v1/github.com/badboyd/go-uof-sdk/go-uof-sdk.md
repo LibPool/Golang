@@ -1,0 +1,35 @@
+# github.com/badboyd/go-uof-sdk
+
+> 标签: badboyd, com, github.com, go, go-uof-sdk, golang
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/badboyd/go-uof-sdk。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/badboyd/go-uof-sdk
+- 源码仓库：https://github.com/badboyd/go-uof-sdk
+
+## 历史版本号
+
+- 当前版本：v0.4.8
+
+- v0.2.1
+- v0.3.1
+- v0.3.2
+- v0.4.1
+- v0.4.2
+- v0.4.3
+- v0.4.4
+- v0.4.5
+- v0.4.6
+- v0.4.7
+- v0.4.8
+
+## 获取地址
+
+- go mod 下载：`go get github.com/badboyd/go-uof-sdk@v0.4.8`
+- 模块代理：https://proxy.golang.org/github.com/badboyd/go-uof-sdk/@v/list

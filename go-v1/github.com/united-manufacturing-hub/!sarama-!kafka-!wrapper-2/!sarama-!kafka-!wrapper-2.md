@@ -1,0 +1,45 @@
+# github.com/united-manufacturing-hub/Sarama-Kafka-Wrapper-2
+
+> 标签: Sarama-Kafka-Wrapper-2, com, github.com, go, golang, united-manufacturing-hub
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/united-manufacturing-hub/Sarama-Kafka-Wrapper-2。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/united-manufacturing-hub/Sarama-Kafka-Wrapper-2
+- 源码仓库：https://github.com/united-manufacturing-hub/Sarama-Kafka-Wrapper-2
+
+## 历史版本号
+
+- 当前版本：v1.13.0
+
+- v1.8.15
+- v1.8.16
+- v1.8.17
+- v1.8.18
+- v1.8.19
+- v1.8.20
+- v1.8.21
+- v1.8.22
+- v1.8.23
+- v1.8.24
+- v1.8.25
+- v1.8.26
+- v1.8.27
+- v1.8.28
+- v1.8.29
+- v1.9.0
+- v1.10.0
+- v1.11.0
+- v1.12.0
+- v1.13.0
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/united-manufacturing-hub/Sarama-Kafka-Wrapper-2@v1.13.0`
+- 模块代理：https://proxy.golang.org/github.com/united-manufacturing-hub/%21sarama-%21kafka-%21wrapper-2/@v/list

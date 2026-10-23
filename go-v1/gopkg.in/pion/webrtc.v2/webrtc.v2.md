@@ -1,0 +1,44 @@
+# gopkg.in/pion/webrtc.v2
+
+> 标签: go, golang, gopkg.in, in, pion, webrtc.v2
+
+## 简介
+
+Go module，由 index.golang.org 收录：gopkg.in/pion/webrtc.v2。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/gopkg.in/pion/webrtc.v2
+
+## 历史版本号
+
+- 当前版本：v2.2.26
+
+- v2.2.7
+- v2.2.8
+- v2.2.9
+- v2.2.10
+- v2.2.11
+- v2.2.12
+- v2.2.13
+- v2.2.14
+- v2.2.15
+- v2.2.16
+- v2.2.17
+- v2.2.18
+- v2.2.19
+- v2.2.20
+- v2.2.21
+- v2.2.22
+- v2.2.23
+- v2.2.24
+- v2.2.25
+- v2.2.26
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get gopkg.in/pion/webrtc.v2@v2.2.26`
+- 模块代理：https://proxy.golang.org/gopkg.in/pion/webrtc.v2/@v/list

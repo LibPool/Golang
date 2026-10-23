@@ -1,0 +1,45 @@
+# github.com/kjuulh/tern
+
+> 标签: com, github.com, go, golang, kjuulh, tern
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/kjuulh/tern。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/kjuulh/tern
+- 源码仓库：https://github.com/kjuulh/tern
+
+## 历史版本号
+
+- 当前版本：v1.13.0
+
+- v1.6.1
+- v1.7.0
+- v1.7.1
+- v1.8.0
+- v1.8.1
+- v1.8.2
+- v1.9.0
+- v1.9.1
+- v1.9.2
+- v1.10.0
+- v1.10.1
+- v1.10.2
+- v1.11.0
+- v1.12.0
+- v1.12.1
+- v1.12.2
+- v1.12.3
+- v1.12.4
+- v1.12.5
+- v1.13.0
+- 共 35 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/kjuulh/tern@v1.13.0`
+- 模块代理：https://proxy.golang.org/github.com/kjuulh/tern/@v/list

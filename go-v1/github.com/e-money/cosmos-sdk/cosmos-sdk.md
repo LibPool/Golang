@@ -1,0 +1,45 @@
+# github.com/e-money/cosmos-sdk
+
+> 标签: com, cosmos-sdk, e-money, github.com, go, golang
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/e-money/cosmos-sdk。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/e-money/cosmos-sdk
+- 源码仓库：https://github.com/e-money/cosmos-sdk
+
+## 历史版本号
+
+- 当前版本：v0.44.5-em1
+
+- v0.42.11-rc0
+- v0.43.0
+- v0.43.0-alpha1
+- v0.43.0-beta1
+- v0.43.0-rc0
+- v0.43.0-rc1
+- v0.43.0-rc2
+- v0.43.0-rc3
+- v0.44.0
+- v0.44.1
+- v0.44.1-em
+- v0.44.2
+- v0.44.2-em-0
+- v0.44.2-em-mk
+- v0.44.2-em-mk1
+- v0.44.2-em0
+- v0.44.3
+- v0.44.3-em0
+- v0.44.5-em0
+- v0.44.5-em1
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/e-money/cosmos-sdk@v0.44.5-em1`
+- 模块代理：https://proxy.golang.org/github.com/e-money/cosmos-sdk/@v/list

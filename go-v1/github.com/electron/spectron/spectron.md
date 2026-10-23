@@ -1,0 +1,45 @@
+# github.com/electron/spectron
+
+> 标签: com, electron, github.com, go, golang, spectron
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/electron/spectron。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/electron/spectron
+- 源码仓库：https://github.com/electron/spectron
+
+## 历史版本号
+
+- 当前版本：v19.0.0+incompatible
+
+- v3.7.0+incompatible
+- v3.7.1+incompatible
+- v3.7.2+incompatible
+- v3.7.3+incompatible
+- v3.8.0+incompatible
+- v5.0.0+incompatible
+- v6.0.0+incompatible
+- v7.0.0+incompatible
+- v8.0.0+incompatible
+- v9.0.0+incompatible
+- v10.0.1+incompatible
+- v11.0.0+incompatible
+- v11.1.0+incompatible
+- v12.0.0+incompatible
+- v13.0.0+incompatible
+- v15.0.0+incompatible
+- v16.0.0+incompatible
+- v17.0.0+incompatible
+- v18.0.0+incompatible
+- v19.0.0+incompatible
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/electron/spectron@v19.0.0+incompatible`
+- 模块代理：https://proxy.golang.org/github.com/electron/spectron/@v/list

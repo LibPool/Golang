@@ -1,0 +1,28 @@
+# github.com/julienp/ksecretmanager
+
+> 标签: com, github.com, go, golang, julienp, ksecretmanager
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/julienp/ksecretmanager。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/julienp/ksecretmanager
+- 源码仓库：https://github.com/julienp/ksecretmanager
+
+## 历史版本号
+
+- 当前版本：v1.1.0
+
+- v0.1.1
+- v0.2.0
+- v1.0.0
+- v1.1.0
+
+## 获取地址
+
+- go mod 下载：`go get github.com/julienp/ksecretmanager@v1.1.0`
+- 模块代理：https://proxy.golang.org/github.com/julienp/ksecretmanager/@v/list

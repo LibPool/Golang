@@ -1,0 +1,44 @@
+# buf.build/gen/go/envoyproxy/envoy/connectrpc/go
+
+> 标签: buf.build, build, connectrpc, envoy, envoyproxy, gen, go, golang
+
+## 简介
+
+Go module，由 index.golang.org 收录：buf.build/gen/go/envoyproxy/envoy/connectrpc/go。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/buf.build/gen/go/envoyproxy/envoy/connectrpc/go
+
+## 历史版本号
+
+- 当前版本：v1.21.0-20261014203957-d0597f2f56b6.1
+
+- v1.21.0-20250321203518-9d5da653c60c.1
+- v1.21.0-20250421202928-5171a7b00434.1
+- v1.21.0-20250508202525-d3d350dd294b.1
+- v1.21.0-20250710201217-3020f25678a2.1
+- v1.21.0-20250724204814-3af112149742.1
+- v1.21.0-20250821201359-b7466416ca3f.1
+- v1.21.0-20250904204106-1b49d61583fe.1
+- v1.21.0-20251020202138-45588ae93e39.1
+- v1.21.0-20251020202141-86528c2a7812.1
+- v1.21.0-20251205205739-a97df1e531dc.1
+- v1.21.0-20251211201056-16e94456f4bb.1
+- v1.21.0-20260115205353-8bee34c86865.1
+- v1.21.0-20260311202139-c512dce74ef6.1
+- v1.21.0-20260413210009-962d9370f296.1
+- v1.21.0-20260424202735-c5bbaf99f135.1
+- v1.21.0-20260624204110-f06a6c813c09.1
+- v1.21.0-20260715203741-d939ad7a9f30.1
+- v1.21.0-20260827231756-a1266651d658.1
+- v1.21.0-20261002203912-c936266d958d.1
+- v1.21.0-20261014203957-d0597f2f56b6.1
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get buf.build/gen/go/envoyproxy/envoy/connectrpc/go@v1.21.0-20261014203957-d0597f2f56b6.1`
+- 模块代理：https://proxy.golang.org/buf.build/gen/go/envoyproxy/envoy/connectrpc/go/@v/list

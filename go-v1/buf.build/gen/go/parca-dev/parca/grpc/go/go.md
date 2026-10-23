@@ -1,0 +1,44 @@
+# buf.build/gen/go/parca-dev/parca/grpc/go
+
+> 标签: buf.build, build, gen, go, golang, grpc, parca, parca-dev
+
+## 简介
+
+Go module，由 index.golang.org 收录：buf.build/gen/go/parca-dev/parca/grpc/go。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/buf.build/gen/go/parca-dev/parca/grpc/go
+
+## 历史版本号
+
+- 当前版本：v1.6.2-20261023091517-a64d6177eb51.1
+
+- v1.6.2-20241125112653-c8424729fd5d.1
+- v1.6.2-20241210134125-ae5a61330ad4.1
+- v1.6.2-20250106133455-d226cc6e7498.1
+- v1.6.2-20250210122921-1664a679efc3.1
+- v1.6.2-20250212095114-4db6f2d46517.1
+- v1.6.2-20250422111113-446df29b312c.1
+- v1.6.2-20250529135622-831243aa22bf.1
+- v1.6.2-20250618095748-e69367cffaca.1
+- v1.6.2-20250703125925-3f0fcf4bff96.1
+- v1.6.2-20250716091922-79400b5144e4.1
+- v1.6.2-20251021111352-8328e0e94621.1
+- v1.6.2-20251103102204-fa183ab18dcf.1
+- v1.6.2-20251128082122-f6c424bce0e5.1
+- v1.6.2-20251203114737-dab2f094ec25.1
+- v1.6.2-20260206050007-a47b093e4fe5.1
+- v1.6.2-20260225102827-5fda07223114.1
+- v1.6.2-20260312070700-91a25b39bb50.1
+- v1.6.2-20260413103946-e19e4fde69b5.1
+- v1.6.2-20260523035409-ca8a9e862107.1
+- v1.6.2-20261023091517-a64d6177eb51.1
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get buf.build/gen/go/parca-dev/parca/grpc/go@v1.6.2-20261023091517-a64d6177eb51.1`
+- 模块代理：https://proxy.golang.org/buf.build/gen/go/parca-dev/parca/grpc/go/@v/list

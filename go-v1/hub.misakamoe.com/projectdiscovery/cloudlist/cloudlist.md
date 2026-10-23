@@ -1,0 +1,28 @@
+# hub.misakamoe.com/projectdiscovery/cloudlist
+
+> 标签: cloudlist, com, go, golang, hub.misakamoe.com, projectdiscovery
+
+## 简介
+
+Go module，由 index.golang.org 收录：hub.misakamoe.com/projectdiscovery/cloudlist。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/hub.misakamoe.com/projectdiscovery/cloudlist
+
+## 历史版本号
+
+- 当前版本：v1.0.3
+
+- v0.0.1
+- v1.0.0
+- v1.0.1
+- v1.0.2
+- v1.0.3
+
+## 获取地址
+
+- go mod 下载：`go get hub.misakamoe.com/projectdiscovery/cloudlist@v1.0.3`
+- 模块代理：https://proxy.golang.org/hub.misakamoe.com/projectdiscovery/cloudlist/@v/list

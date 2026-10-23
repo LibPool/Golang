@@ -1,0 +1,30 @@
+# eqrx.net/wallhack
+
+> 标签: eqrx.net, go, golang, net, wallhack
+
+## 简介
+
+Go module，由 index.golang.org 收录：eqrx.net/wallhack。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/eqrx.net/wallhack
+
+## 历史版本号
+
+- 当前版本：v0.0.7
+
+- v0.0.1
+- v0.0.2
+- v0.0.3
+- v0.0.4
+- v0.0.5
+- v0.0.6
+- v0.0.7
+
+## 获取地址
+
+- go mod 下载：`go get eqrx.net/wallhack@v0.0.7`
+- 模块代理：https://proxy.golang.org/eqrx.net/wallhack/@v/list

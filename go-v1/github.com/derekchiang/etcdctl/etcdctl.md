@@ -1,0 +1,27 @@
+# github.com/derekchiang/etcdctl
+
+> 标签: com, derekchiang, etcdctl, github.com, go, golang
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/derekchiang/etcdctl。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/derekchiang/etcdctl
+- 源码仓库：https://github.com/derekchiang/etcdctl
+
+## 历史版本号
+
+- 当前版本：v0.1.2
+
+- v0.1.0
+- v0.1.1
+- v0.1.2
+
+## 获取地址
+
+- go mod 下载：`go get github.com/derekchiang/etcdctl@v0.1.2`
+- 模块代理：https://proxy.golang.org/github.com/derekchiang/etcdctl/@v/list

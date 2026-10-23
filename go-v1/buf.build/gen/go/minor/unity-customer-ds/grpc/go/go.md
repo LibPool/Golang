@@ -1,0 +1,44 @@
+# buf.build/gen/go/minor/unity-customer-ds/grpc/go
+
+> 标签: buf.build, build, gen, go, golang, grpc, minor, unity-customer-ds
+
+## 简介
+
+Go module，由 index.golang.org 收录：buf.build/gen/go/minor/unity-customer-ds/grpc/go。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/buf.build/gen/go/minor/unity-customer-ds/grpc/go
+
+## 历史版本号
+
+- 当前版本：v1.6.2-20260714070834-0677dd7746ef.1
+
+- v1.6.2-20250429095143-db9b42535653.1
+- v1.6.2-20250430093458-fc8d96b7fd8f.1
+- v1.6.2-20250502084306-19e33a2a0876.1
+- v1.6.2-20250805062950-1c9ea6bad1c4.1
+- v1.6.2-20250827072926-d9f2abf38050.1
+- v1.6.2-20250827084643-6f1c7be2e860.1
+- v1.6.2-20250827084852-02d10ace21d2.1
+- v1.6.2-20251218082230-ed85d3fcdc26.1
+- v1.6.2-20251218101131-09e905763e19.1
+- v1.6.2-20251219024804-55e64aff4667.1
+- v1.6.2-20251219075113-27cbcffe5afe.1
+- v1.6.2-20251222034858-998ab2c16f79.1
+- v1.6.2-20251222050232-701ca3ab0e15.1
+- v1.6.2-20251222063229-b23f68350464.1
+- v1.6.2-20260112085209-e2b889a885df.1
+- v1.6.2-20260123030640-b8978d86f77a.1
+- v1.6.2-20260219101537-ef2c6160a0ff.1
+- v1.6.2-20260220063328-8ddbce17b47c.1
+- v1.6.2-20260220072035-8a850f766972.1
+- v1.6.2-20260714070834-0677dd7746ef.1
+- 共 40 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get buf.build/gen/go/minor/unity-customer-ds/grpc/go@v1.6.2-20260714070834-0677dd7746ef.1`
+- 模块代理：https://proxy.golang.org/buf.build/gen/go/minor/unity-customer-ds/grpc/go/@v/list

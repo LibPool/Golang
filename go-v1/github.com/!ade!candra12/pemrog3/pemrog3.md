@@ -1,0 +1,26 @@
+# github.com/AdeCandra12/pemrog3
+
+> 标签: AdeCandra12, com, github.com, go, golang, pemrog3
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/AdeCandra12/pemrog3。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/AdeCandra12/pemrog3
+- 源码仓库：https://github.com/AdeCandra12/pemrog3
+
+## 历史版本号
+
+- 当前版本：v0.0.2
+
+- v0.0.1
+- v0.0.2
+
+## 获取地址
+
+- go mod 下载：`go get github.com/AdeCandra12/pemrog3@v0.0.2`
+- 模块代理：https://proxy.golang.org/github.com/%21ade%21candra12/pemrog3/@v/list

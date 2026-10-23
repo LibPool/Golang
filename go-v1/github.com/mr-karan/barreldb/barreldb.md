@@ -1,0 +1,25 @@
+# github.com/mr-karan/barreldb
+
+> 标签: barreldb, com, github.com, go, golang, mr-karan
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/mr-karan/barreldb。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/mr-karan/barreldb
+- 源码仓库：https://github.com/mr-karan/barreldb
+
+## 历史版本号
+
+- 当前版本：v1.0.0
+
+- v1.0.0
+
+## 获取地址
+
+- go mod 下载：`go get github.com/mr-karan/barreldb@v1.0.0`
+- 模块代理：https://proxy.golang.org/github.com/mr-karan/barreldb/@v/list
