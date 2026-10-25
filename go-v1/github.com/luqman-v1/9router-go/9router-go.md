@@ -1,0 +1,46 @@
+# github.com/luqman-v1/9router-go
+
+> 标签: 9router-go, com, github.com, go, golang, luqman-v1
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/luqman-v1/9router-go。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/luqman-v1/9router-go
+- 源码仓库：https://github.com/luqman-v1/9router-go
+
+## 历史版本号
+
+- 当前版本：v1.9.15-exp.9
+
+- v1.9.12-exp.5
+- v1.9.13
+- v1.9.14
+- v1.9.14-exp.1
+- v1.9.14-exp.2
+- v1.9.14-exp.3
+- v1.9.14-exp.4
+- v1.9.14-exp.5
+- v1.9.14-exp.6
+- v1.9.14-exp.7
+- v1.9.14-exp.8
+- v1.9.15-exp.1
+- v1.9.15-exp.2
+- v1.9.15-exp.3
+- v1.9.15-exp.4
+- v1.9.15-exp.5
+- v1.9.15-exp.6
+- v1.9.15-exp.7
+- v1.9.15-exp.8
+- v1.9.15-exp.9
+- 共 82 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/luqman-v1/9router-go@v1.9.15-exp.9`
+- 模块代理：https://proxy.golang.org/github.com/luqman-v1/9router-go/@v/list
+- go.mod 记录的最低 Go 版本：1.27

@@ -1,0 +1,45 @@
+# buf.build/gen/go/antinvestor/loans/connectrpc/go
+
+> 标签: antinvestor, buf.build, build, connectrpc, gen, go, golang, loans
+
+## 简介
+
+Go module，由 index.golang.org 收录：buf.build/gen/go/antinvestor/loans/connectrpc/go。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/buf.build/gen/go/antinvestor/loans/connectrpc/go
+
+## 历史版本号
+
+- 当前版本：v1.21.0-20261025121205-399271319c1b.1
+
+- v1.21.0-20260509052652-09e08f4facc6.1
+- v1.21.0-20260709214610-5f3ebfd08539.1
+- v1.21.0-20260831174505-17fbc7c55b58.1
+- v1.21.0-20260901172203-8a835ada1bb2.1
+- v1.21.0-20260901172608-9ba198861630.1
+- v1.21.0-20260901221329-0f4c9726f61f.1
+- v1.21.0-20260901223034-fc25075b5b58.1
+- v1.21.0-20261013145659-e90f79752f62.1
+- v1.21.0-20261024091927-27aa94ebbc43.1
+- v1.21.0-20261024091943-d19d86780a84.1
+- v1.21.0-20261024200122-6df0ca30c850.1
+- v1.21.0-20261024200229-86245856b5c0.1
+- v1.21.0-20261024205209-5cba0ca1181c.1
+- v1.21.0-20261024215839-6948bf86a00d.1
+- v1.21.0-20261024221153-f940ccbdf44b.1
+- v1.21.0-20261024223522-8a3832f385ae.1
+- v1.21.0-20261025070611-36ddedb90097.1
+- v1.21.0-20261025070629-88d52ac80974.1
+- v1.21.0-20261025114649-e0a1eb6644f8.1
+- v1.21.0-20261025121205-399271319c1b.1
+- 共 667 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get buf.build/gen/go/antinvestor/loans/connectrpc/go@v1.21.0-20261025121205-399271319c1b.1`
+- 模块代理：https://proxy.golang.org/buf.build/gen/go/antinvestor/loans/connectrpc/go/@v/list
+- go.mod 记录的最低 Go 版本：1.25

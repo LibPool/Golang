@@ -1,0 +1,45 @@
+# gopkg.in/tdewolff/minify.v2
+
+> 标签: go, golang, gopkg.in, in, minify.v2, tdewolff
+
+## 简介
+
+Go module，由 index.golang.org 收录：gopkg.in/tdewolff/minify.v2。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/gopkg.in/tdewolff/minify.v2
+
+## 历史版本号
+
+- 当前版本：v2.24.23
+
+- v2.24.4
+- v2.24.5
+- v2.24.6
+- v2.24.7
+- v2.24.8
+- v2.24.9
+- v2.24.10
+- v2.24.11
+- v2.24.12
+- v2.24.13
+- v2.24.14
+- v2.24.15
+- v2.24.16
+- v2.24.17
+- v2.24.18
+- v2.24.19
+- v2.24.20
+- v2.24.21
+- v2.24.22
+- v2.24.23
+- 共 167 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get gopkg.in/tdewolff/minify.v2@v2.24.23`
+- 模块代理：https://proxy.golang.org/gopkg.in/tdewolff/minify.v2/@v/list
+- go.mod 记录的最低 Go 版本：1.26.0

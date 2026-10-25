@@ -1,0 +1,45 @@
+# aalyria.com/spacetime/types
+
+> 标签: aalyria.com, com, go, golang, spacetime, types
+
+## 简介
+
+Go module，由 index.golang.org 收录：aalyria.com/spacetime/types。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/aalyria.com/spacetime/types
+
+## 历史版本号
+
+- 当前版本：v1.0.1792800027
+
+- v1.0.1792776661
+- v1.0.1792777475
+- v1.0.1792778321
+- v1.0.1792779121
+- v1.0.1792781718
+- v1.0.1792783545
+- v1.0.1792784600
+- v1.0.1792784754
+- v1.0.1792786104
+- v1.0.1792786108
+- v1.0.1792788945
+- v1.0.1792789108
+- v1.0.1792791170
+- v1.0.1792791428
+- v1.0.1792793357
+- v1.0.1792796775
+- v1.0.1792798835
+- v1.0.1792798838
+- v1.0.1792799159
+- v1.0.1792800027
+- 共 4406 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get aalyria.com/spacetime/types@v1.0.1792800027`
+- 模块代理：https://proxy.golang.org/aalyria.com/spacetime/types/@v/list
+- go.mod 记录的最低 Go 版本：1.27.0

@@ -1,0 +1,45 @@
+# github.com/observiq/bindplane-otel-collector
+
+> 标签: bindplane-otel-collector, com, github.com, go, golang, observiq
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/observiq/bindplane-otel-collector。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/observiq/bindplane-otel-collector
+- 源码仓库：https://github.com/observiq/bindplane-otel-collector
+
+## 历史版本号
+
+- 当前版本：v2.0.1-beta.6+incompatible
+
+- v2.0.0-alpha.7+incompatible
+- v2.0.0-alpha.8+incompatible
+- v2.0.0-beta.1+incompatible
+- v2.0.0-beta.10+incompatible
+- v2.0.0-beta.11+incompatible
+- v2.0.0-beta.12+incompatible
+- v2.0.0-beta.2+incompatible
+- v2.0.0-beta.3+incompatible
+- v2.0.0-beta.4+incompatible
+- v2.0.0-beta.5+incompatible
+- v2.0.0-beta.6+incompatible
+- v2.0.0-beta.7+incompatible
+- v2.0.0-beta.8+incompatible
+- v2.0.0-beta.9+incompatible
+- v2.0.1-beta.1+incompatible
+- v2.0.1-beta.2+incompatible
+- v2.0.1-beta.3+incompatible
+- v2.0.1-beta.4+incompatible
+- v2.0.1-beta.5+incompatible
+- v2.0.1-beta.6+incompatible
+- 共 230 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/observiq/bindplane-otel-collector@v2.0.1-beta.6+incompatible`
+- 模块代理：https://proxy.golang.org/github.com/observiq/bindplane-otel-collector/@v/list

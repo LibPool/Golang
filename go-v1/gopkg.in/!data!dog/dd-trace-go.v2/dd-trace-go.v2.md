@@ -1,0 +1,45 @@
+# gopkg.in/DataDog/dd-trace-go.v2
+
+> 标签: DataDog, dd-trace-go.v2, go, golang, gopkg.in, in
+
+## 简介
+
+Go module，由 index.golang.org 收录：gopkg.in/DataDog/dd-trace-go.v2。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/gopkg.in/DataDog/dd-trace-go.v2
+
+## 历史版本号
+
+- 当前版本：v2.13.0-dev
+
+- v2.10.0-rc.9
+- v2.10.1
+- v2.10.1-rc.1
+- v2.11.0
+- v2.11.0-dev
+- v2.11.0-dev.1
+- v2.11.0-rc.1
+- v2.11.0-rc.2
+- v2.11.1
+- v2.11.2
+- v2.12.0-dev
+- v2.12.0-dev.1
+- v2.12.0-dev.2
+- v2.12.0-dev.3
+- v2.12.0-rc.1
+- v2.12.0-rc.2
+- v2.12.0-rc.3
+- v2.12.0-rc.4
+- v2.12.0-rc.5
+- v2.13.0-dev
+- 共 159 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get gopkg.in/DataDog/dd-trace-go.v2@v2.13.0-dev`
+- 模块代理：https://proxy.golang.org/gopkg.in/%21data%21dog/dd-trace-go.v2/@v/list
+- go.mod 记录的最低 Go 版本：1.26.0

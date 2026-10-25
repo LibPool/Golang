@@ -1,0 +1,46 @@
+# github.com/donetick/donetick
+
+> 标签: com, donetick, github.com, go, golang
+
+## 简介
+
+Go module，由 index.golang.org 收录：github.com/donetick/donetick。
+
+Go 语言目前为大版本 1.x；本库收录于 go-v1。
+
+## 官网
+
+- Go 文档：https://pkg.go.dev/github.com/donetick/donetick
+- 源码仓库：https://github.com/donetick/donetick
+
+## 历史版本号
+
+- 当前版本：v0.1.84-beta.3
+
+- v0.1.80
+- v0.1.80-beta.1
+- v0.1.80-beta.2
+- v0.1.80-beta.3
+- v0.1.80-beta.4
+- v0.1.80-beta.5
+- v0.1.81
+- v0.1.81-beta.1
+- v0.1.81-beta.2
+- v0.1.81-beta.3
+- v0.1.81-beta.4
+- v0.1.81-beta.5
+- v0.1.81-beta.6
+- v0.1.81-beta.7
+- v0.1.82
+- v0.1.83
+- v0.1.83-beta.1
+- v0.1.84-beta.1
+- v0.1.84-beta.2
+- v0.1.84-beta.3
+- 共 143 个版本，完整清单见 Go module proxy。
+
+## 获取地址
+
+- go mod 下载：`go get github.com/donetick/donetick@v0.1.84-beta.3`
+- 模块代理：https://proxy.golang.org/github.com/donetick/donetick/@v/list
+- go.mod 记录的最低 Go 版本：1.24.0
